@@ -45,20 +45,32 @@ class MyHTMLParser(HTMLParser):
         if self.in_price:
             self.price += data
 
-    def printOutput(self):
-        print self.prices
-
-url = "https://www.mtggoldfish.com/index/KTK#online"
-f = urllib.urlopen(url)
-html = f.read()
-table_index = html.find("<table class='table table-bordered table-condensed tablesorter tablesorter-bootstrap-popover-online'>")
-if table_index != -1:
-    html = html[table_index:]
-    table_end_index = html.find("</table>")
-    html = html[:table_end_index+8]
+    def getOutput(self):
+        return self.prices
 
 
-parser = MyHTMLParser()
-parser.feed(html)
-#print html
-parser.printOutput()
+def fetch_prices(set, online, foil):
+    f = ""
+    if foil:
+        f = "_F"
+    o = "#online"
+    if not online:
+        o = "#paper"
+
+    url = "https://www.mtggoldfish.com/index/"+set+f+o
+    f = urllib.urlopen(url)
+    html = f.read()
+    table_index = html.find("<table class='table table-bordered table-condensed tablesorter tablesorter-bootstrap-popover-online'>")
+    if table_index != -1:
+        html = html[table_index:]
+        table_end_index = html.find("</table>")
+        html = html[:table_end_index+8]
+
+
+        parser = MyHTMLParser()
+        parser.feed(html)
+        #print html
+        return parser.getOutput()
+    return []
+
+print fetch_prices("HOU", True, False)
