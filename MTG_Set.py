@@ -1,5 +1,23 @@
 class MTG_Set(object):
 	def __init__(self, json):
+		self.code = "" #gathere code
+		self.name = "" #set name
+		self.mkm_name = "" #mkm short
+		self.mkm_id = "" #mkm short
+		self.border = "" #white/black/silver
+		self.translations = "" #?
+		self.releaseDate = "" #?
+		self.booster = "" #?
+		self.type = "" #expansion/core/starter/promo
+		self.block = ""
+		self.magicRaritiesCodes = ""
+		self.magicCardsInfoCode = ""
+		self.gathererCode = ""
+		self.oldCode = ""
+		self.onlineOnly = ""
+		self.alternativeNames = ""
+		self.cards = ""
+
 		for key in json.keys():
 			key = str(key)
 			if key!="cards":
@@ -8,7 +26,7 @@ class MTG_Set(object):
 			if key == "code":
 				self.code = json[key]
 			if key == "name":
-				self.name = json[key]
+				self.name = json[key].encode('utf-8')
 			if key == "mkm_name":
 				self.mkm_name = json[key]
 			if key == "mkm_id":
@@ -19,8 +37,6 @@ class MTG_Set(object):
 				self.translations = json[key]
 			if key == "releaseDate":
 				self.releaseDate = json[key]
-			if key == "cards":
-				self.cards = json[key]
 			if key == "booster":
 				self.booster = json[key]
 			if key == "type":
