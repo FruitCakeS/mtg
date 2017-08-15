@@ -1,4 +1,5 @@
 
+*.txt
 *.pyc
 *.obj
 *.json
