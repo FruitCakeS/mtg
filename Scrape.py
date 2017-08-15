@@ -30,7 +30,7 @@ class MyHTMLParser(HTMLParser):
             self.in_row = False
             self.column_count = 0
             if self.card_name != "" and self.price != "":
-                stripped_price = self.price.strip()
+                stripped_price = self.price.strip().replace(",","")
                 fprice = float(stripped_price)
                 self.prices.append([self.card_name.strip(), fprice])
             self.card_name = ""
@@ -48,29 +48,35 @@ class MyHTMLParser(HTMLParser):
     def getOutput(self):
         return self.prices
 
+    def clear_prices(self):
+        self.in_row = False
+        self.column_count = 0
+        self.in_card_name = False
+        self.in_price = False
+        self.prices = []
+        self.card_name = ""
+        self.price = ""
+
+
 
 def fetch_prices(set, online, foil):
     f = ""
     if foil:
         f = "_F"
-    o = "#online"
+    o = "online"
     if not online:
-        o = "#paper"
+        o = "paper"
 
-    url = "https://www.mtggoldfish.com/index/"+set+f+o
+    url = "https://www.mtggoldfish.com/index/"+set+f+"#"+o
     f = urllib.urlopen(url)
     html = f.read()
-    table_index = html.find("<table class='table table-bordered table-condensed tablesorter tablesorter-bootstrap-popover-online'>")
+    table_index = html.find("<table class='table table-bordered table-condensed tablesorter tablesorter-bootstrap-popover-"+o)
     if table_index != -1:
         html = html[table_index:]
         table_end_index = html.find("</table>")
         html = html[:table_end_index+8]
-
-
         parser = MyHTMLParser()
+        parser.clear_prices()
         parser.feed(html)
-        #print html
         return parser.getOutput()
     return []
-
-print fetch_prices("HOU", True, False)

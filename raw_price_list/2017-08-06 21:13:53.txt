@@ -1,0 +1,2251 @@
+Leyline of the Void GPT online nonfoil 9.24
+Stomping Ground GPT online nonfoil 6.69
+Steam Vents GPT online nonfoil 3.88
+Godless Shrine GPT online nonfoil 3.28
+Orzhov Pontiff GPT online nonfoil 1.34
+Shattering Spree GPT online nonfoil 1.22
+Leyline of the Meek GPT online nonfoil 0.38
+Teysa, Orzhov Scion GPT online nonfoil 0.36
+Stitch in Time GPT online nonfoil 0.23
+Hatching Plans GPT online nonfoil 0.18
+Leyline of Lifeforce GPT online nonfoil 0.18
+Angel of Despair GPT online nonfoil 0.14
+Ghostway GPT online nonfoil 0.13
+Burning-Tree Shaman GPT online nonfoil 0.13
+Electrolyze GPT online nonfoil 0.06
+Castigate GPT online nonfoil 0.05
+Gigadrowse GPT online nonfoil 0.05
+Silhana Ledgewalker GPT online nonfoil 0.05
+Smogsteed Rider GPT online nonfoil 0.04
+Debtors Knell GPT online nonfoil 0.04
+Daggerclaw Imp GPT online nonfoil 0.04
+Caustic Rain GPT online nonfoil 0.04
+Gruul Turf GPT online nonfoil 0.04
+Izzet Boilerworks GPT online nonfoil 0.04
+Leyline of Singularity GPT online nonfoil 0.04
+Repeal GPT online nonfoil 0.04
+Vacuumelt GPT online nonfoil 0.04
+Battering Wurm GPT online nonfoil 0.04
+Ghor-Clan Savage GPT online nonfoil 0.04
+Skarrgan Pit-Skulk GPT online nonfoil 0.04
+Shrieking Grotesque GPT online nonfoil 0.04
+Gelectrode GPT online nonfoil 0.04
+Wild Cantor GPT online nonfoil 0.03
+Orzhov Basilica GPT online nonfoil 0.03
+Mourning Thrull GPT online nonfoil 0.03
+Mortify GPT online nonfoil 0.03
+Ghost Council of Orzhova GPT online nonfoil 0.02
+Souls of the Faultless GPT online nonfoil 0.02
+Plagued Rusalka GPT online nonfoil 0.02
+Exhumer Thrull GPT online nonfoil 0.02
+Yore-Tiller Nephilim GPT online nonfoil 0.02
+Ink-Treader Nephilim GPT online nonfoil 0.02
+Gruul Signet GPT online nonfoil 0.02
+Izzet Signet GPT online nonfoil 0.02
+Moratorium Stone GPT online nonfoil 0.02
+Orzhov Signet GPT online nonfoil 0.02
+Stratozeppelid GPT online nonfoil 0.02
+Sword of the Paruns GPT online nonfoil 0.02
+Torch Drake GPT online nonfoil 0.02
+Vertigo Spawn GPT online nonfoil 0.02
+Skarrg, the Rage Pits GPT online nonfoil 0.02
+Quicken GPT online nonfoil 0.02
+Runeboggle GPT online nonfoil 0.02
+Mimeofacture GPT online nonfoil 0.02
+Gruul Nodorog GPT online nonfoil 0.02
+Gruul Scrapper GPT online nonfoil 0.02
+Crash Landing GPT online nonfoil 0.02
+Bloodscale Prowler GPT online nonfoil 0.02
+Ogre Savant GPT online nonfoil 0.02
+Tin Street Hooligan GPT online nonfoil 0.02
+Absolver Thrull GPT online nonfoil 0.02
+Lionheart Maverick GPT online nonfoil 0.02
+Skyrider Trainee GPT online nonfoil 0.02
+Guardians Magemark GPT online nonfoil 0.02
+Petrahydrox GPT online nonfoil 0.02
+Cerebral Vortex GPT online nonfoil 0.02
+Leap of Flame GPT online nonfoil 0.02
+Invoke the Firemind GPT online nonfoil 0.02
+Borborygmos GPT online nonfoil 0.02
+Streetbreaker Wurm GPT online nonfoil 0.02
+Ulasht, the Hate Seed GPT online nonfoil 0.02
+Killer Instinct GPT online nonfoil 0.01
+Savage Twister GPT online nonfoil 0.01
+Wreak Havoc GPT online nonfoil 0.01
+Glint-Eye Nephilim GPT online nonfoil 0.01
+Hissing Miasma GPT online nonfoil 0.01
+Agent of Masks GPT online nonfoil 0.01
+Cryptwailing GPT online nonfoil 0.01
+Blind Hunter GPT online nonfoil 0.01
+Restless Bones GPT online nonfoil 0.01
+Necromancers Magemark GPT online nonfoil 0.01
+Orzhov Euthanist GPT online nonfoil 0.01
+Orzhov Guildmage GPT online nonfoil 0.01
+Poisonbelly Ogre GPT online nonfoil 0.01
+Skeletal Vampire GPT online nonfoil 0.01
+Pillory of the Sleepless GPT online nonfoil 0.01
+Sanguine Praetor GPT online nonfoil 0.01
+Ostiary Thrull GPT online nonfoil 0.01
+Revenant Patriarch GPT online nonfoil 0.01
+Conjurers Ban GPT online nonfoil 0.01
+Culling Sun GPT online nonfoil 0.01
+Abyssal Nocturnus GPT online nonfoil 0.01
+Witch-Maw Nephilim GPT online nonfoil 0.01
+Cremate GPT online nonfoil 0.01
+Douse in Gloom GPT online nonfoil 0.01
+Dune-Brood Nephilim GPT online nonfoil 0.01
+Seize the Soul GPT online nonfoil 0.01
+Cry of Contrition GPT online nonfoil 0.01
+Gruul War Plow GPT online nonfoil 0.01
+Crystal Seer GPT online nonfoil 0.01
+Drowned Rusalka GPT online nonfoil 0.01
+Mizzium Transreliquat GPT online nonfoil 0.01
+Sky Swallower GPT online nonfoil 0.01
+Steamcore Weird GPT online nonfoil 0.01
+Vedalken Plotter GPT online nonfoil 0.01
+Infiltrators Magemark GPT online nonfoil 0.01
+Nivix, Aerie of the Firemind GPT online nonfoil 0.01
+Orzhova, the Church of Deals GPT online nonfoil 0.01
+Frazzle GPT online nonfoil 0.01
+Aetherplasm GPT online nonfoil 0.01
+Thunderheads GPT online nonfoil 0.01
+Train of Thought GPT online nonfoil 0.01
+Bioplasm GPT online nonfoil 0.01
+Dryad Sophisticate GPT online nonfoil 0.01
+Gatherer of Graces GPT online nonfoil 0.01
+Gristleback GPT online nonfoil 0.01
+Petrified Wood-Kin GPT online nonfoil 0.01
+Silhana Starfletcher GPT online nonfoil 0.01
+Starved Rusalka GPT online nonfoil 0.01
+Beastmasters Magemark GPT online nonfoil 0.01
+Wurmweaver Coil GPT online nonfoil 0.01
+Earth Surge GPT online nonfoil 0.01
+Wildsize GPT online nonfoil 0.01
+Predatory Focus GPT online nonfoil 0.01
+Primeval Light GPT online nonfoil 0.01
+Ghor-Clan Bloodscale GPT online nonfoil 0.01
+Living Inferno GPT online nonfoil 0.01
+Rabble-Rouser GPT online nonfoil 0.01
+Scorched Rusalka GPT online nonfoil 0.01
+Skarrgan Firebird GPT online nonfoil 0.01
+Fencers Magemark GPT online nonfoil 0.01
+Hypervolt Grasp GPT online nonfoil 0.01
+Leyline of Lightning GPT online nonfoil 0.01
+Parallectric Feedback GPT online nonfoil 0.01
+Pyromatics GPT online nonfoil 0.01
+Siege of Towers GPT online nonfoil 0.01
+Belfry Spirit GPT online nonfoil 0.01
+Droning Bureaucrats GPT online nonfoil 0.01
+Ghost Warden GPT online nonfoil 0.01
+Graven Dominator GPT online nonfoil 0.01
+Harrier Griffin GPT online nonfoil 0.01
+Martyred Rusalka GPT online nonfoil 0.01
+Order of the Stars GPT online nonfoil 0.01
+Spelltithe Enforcer GPT online nonfoil 0.01
+Shadow Lance GPT online nonfoil 0.01
+Sinstrikers Will GPT online nonfoil 0.01
+To Arms! GPT online nonfoil 0.01
+Withstand GPT online nonfoil 0.01
+Benediction of Moons GPT online nonfoil 0.01
+Storm Herd GPT online nonfoil 0.01
+Djinn Illuminatus GPT online nonfoil 0.01
+Goblin Flectomancer GPT online nonfoil 0.01
+Izzet Chronarch GPT online nonfoil 0.01
+Izzet Guildmage GPT online nonfoil 0.01
+Niv-Mizzet, the Firemind GPT online nonfoil 0.01
+Tibor and Lumia GPT online nonfoil 0.01
+Wee Dragonauts GPT online nonfoil 0.01
+Schismotivate GPT online nonfoil 0.01
+Burning-Tree Bloodscale GPT online nonfoil 0.01
+Feral Animist GPT online nonfoil 0.01
+Giant Solifuge GPT online nonfoil 0.01
+Gruul Guildmage GPT online nonfoil 0.01
+Rumbling Slum GPT online nonfoil 0.01
+Scab-Clan Mauler GPT online nonfoil 0.01
+Skarrgan Skybreaker GPT online nonfoil 0.01
+Leyline of the Void GPT online foil 11.78
+Stomping Ground GPT online foil 7.71
+Godless Shrine GPT online foil 4.47
+Steam Vents GPT online foil 4.46
+Shattering Spree GPT online foil 1.97
+Orzhov Pontiff GPT online foil 1.95
+Teysa, Orzhov Scion GPT online foil 1.17
+Ghostway GPT online foil 1.0
+Stitch in Time GPT online foil 0.96
+Niv-Mizzet, the Firemind GPT online foil 0.94
+Burning-Tree Shaman GPT online foil 0.85
+Angel of Despair GPT online foil 0.71
+Leyline of the Meek GPT online foil 0.61
+Leyline of Lifeforce GPT online foil 0.5
+Debtors Knell GPT online foil 0.47
+Quicken GPT online foil 0.43
+Electrolyze GPT online foil 0.37
+Cerebral Vortex GPT online foil 0.35
+Hatching Plans GPT online foil 0.3
+Leyline of Singularity GPT online foil 0.29
+Silhana Ledgewalker GPT online foil 0.29
+Runeboggle GPT online foil 0.14
+Beastmasters Magemark GPT online foil 0.12
+Skarrgan Skybreaker GPT online foil 0.12
+Ghor-Clan Savage GPT online foil 0.1
+Lionheart Maverick GPT online foil 0.1
+Sword of the Paruns GPT online foil 0.08
+Necromancers Magemark GPT online foil 0.06
+Ink-Treader Nephilim GPT online foil 0.06
+Gigadrowse GPT online foil 0.06
+Poisonbelly Ogre GPT online foil 0.05
+Hissing Miasma GPT online foil 0.05
+Ostiary Thrull GPT online foil 0.05
+Mortify GPT online foil 0.05
+Castigate GPT online foil 0.05
+Conjurers Ban GPT online foil 0.05
+Izzet Signet GPT online foil 0.05
+Izzet Boilerworks GPT online foil 0.05
+Battering Wurm GPT online foil 0.05
+Silhana Starfletcher GPT online foil 0.05
+Hypervolt Grasp GPT online foil 0.05
+Absolver Thrull GPT online foil 0.05
+Harrier Griffin GPT online foil 0.05
+Shrieking Grotesque GPT online foil 0.05
+To Arms! GPT online foil 0.05
+Benediction of Moons GPT online foil 0.05
+Orzhov Euthanist GPT online foil 0.04
+Daggerclaw Imp GPT online foil 0.04
+Abyssal Nocturnus GPT online foil 0.04
+Crystal Seer GPT online foil 0.04
+Siege of Towers GPT online foil 0.04
+Graven Dominator GPT online foil 0.04
+Spelltithe Enforcer GPT online foil 0.04
+Shadow Lance GPT online foil 0.04
+Storm Herd GPT online foil 0.04
+Tibor and Lumia GPT online foil 0.04
+Giant Solifuge GPT online foil 0.04
+Rumbling Slum GPT online foil 0.04
+Ulasht, the Hate Seed GPT online foil 0.03
+Killer Instinct GPT online foil 0.03
+Cryptwailing GPT online foil 0.03
+Ghost Council of Orzhova GPT online foil 0.03
+Mourning Thrull GPT online foil 0.03
+Skeletal Vampire GPT online foil 0.03
+Culling Sun GPT online foil 0.03
+Witch-Maw Nephilim GPT online foil 0.03
+Cremate GPT online foil 0.03
+Dune-Brood Nephilim GPT online foil 0.03
+Caustic Rain GPT online foil 0.03
+Gruul War Plow GPT online foil 0.03
+Mizzium Transreliquat GPT online foil 0.03
+Infiltrators Magemark GPT online foil 0.03
+Bioplasm GPT online foil 0.03
+Petrified Wood-Kin GPT online foil 0.03
+Skarrgan Pit-Skulk GPT online foil 0.03
+Crash Landing GPT online foil 0.03
+Ogre Savant GPT online foil 0.03
+Leyline of Lightning GPT online foil 0.03
+Parallectric Feedback GPT online foil 0.03
+Droning Bureaucrats GPT online foil 0.03
+Ghost Warden GPT online foil 0.03
+Djinn Illuminatus GPT online foil 0.03
+Gelectrode GPT online foil 0.03
+Izzet Chronarch GPT online foil 0.03
+Izzet Guildmage GPT online foil 0.03
+Leap of Flame GPT online foil 0.03
+Invoke the Firemind GPT online foil 0.03
+Borborygmos GPT online foil 0.03
+Streetbreaker Wurm GPT online foil 0.03
+Wild Cantor GPT online foil 0.02
+Sanguine Praetor GPT online foil 0.02
+Restless Bones GPT online foil 0.02
+Glint-Eye Nephilim GPT online foil 0.02
+Agent of Masks GPT online foil 0.02
+Blind Hunter GPT online foil 0.02
+Exhumer Thrull GPT online foil 0.02
+Smogsteed Rider GPT online foil 0.02
+Orzhov Guildmage GPT online foil 0.02
+Souls of the Faultless GPT online foil 0.02
+Revenant Patriarch GPT online foil 0.02
+Plagued Rusalka GPT online foil 0.02
+Pillory of the Sleepless GPT online foil 0.02
+Yore-Tiller Nephilim GPT online foil 0.02
+Douse in Gloom GPT online foil 0.02
+Seize the Soul GPT online foil 0.02
+Cry of Contrition GPT online foil 0.02
+Drowned Rusalka GPT online foil 0.02
+Sky Swallower GPT online foil 0.02
+Moratorium Stone GPT online foil 0.02
+Steamcore Weird GPT online foil 0.02
+Stratozeppelid GPT online foil 0.02
+Torch Drake GPT online foil 0.02
+Vedalken Plotter GPT online foil 0.02
+Gruul Turf GPT online foil 0.02
+Nivix, Aerie of the Firemind GPT online foil 0.02
+Orzhov Basilica GPT online foil 0.02
+Frazzle GPT online foil 0.02
+Repeal GPT online foil 0.02
+Aetherplasm GPT online foil 0.02
+Thunderheads GPT online foil 0.02
+Mimeofacture GPT online foil 0.02
+Train of Thought GPT online foil 0.02
+Vacuumelt GPT online foil 0.02
+Dryad Sophisticate GPT online foil 0.02
+Gatherer of Graces GPT online foil 0.02
+Gristleback GPT online foil 0.02
+Gruul Nodorog GPT online foil 0.02
+Gruul Scrapper GPT online foil 0.02
+Starved Rusalka GPT online foil 0.02
+Wurmweaver Coil GPT online foil 0.02
+Earth Surge GPT online foil 0.02
+Predatory Focus GPT online foil 0.02
+Primeval Light GPT online foil 0.02
+Bloodscale Prowler GPT online foil 0.02
+Ghor-Clan Bloodscale GPT online foil 0.02
+Living Inferno GPT online foil 0.02
+Rabble-Rouser GPT online foil 0.02
+Scorched Rusalka GPT online foil 0.02
+Skarrgan Firebird GPT online foil 0.02
+Tin Street Hooligan GPT online foil 0.02
+Fencers Magemark GPT online foil 0.02
+Pyromatics GPT online foil 0.02
+Belfry Spirit GPT online foil 0.02
+Martyred Rusalka GPT online foil 0.02
+Order of the Stars GPT online foil 0.02
+Skyrider Trainee GPT online foil 0.02
+Guardians Magemark GPT online foil 0.02
+Sinstrikers Will GPT online foil 0.02
+Withstand GPT online foil 0.02
+Goblin Flectomancer GPT online foil 0.02
+Petrahydrox GPT online foil 0.02
+Schismotivate GPT online foil 0.02
+Burning-Tree Bloodscale GPT online foil 0.02
+Feral Animist GPT online foil 0.02
+Gruul Guildmage GPT online foil 0.02
+Scab-Clan Mauler GPT online foil 0.02
+Savage Twister GPT online foil 0.01
+Wreak Havoc GPT online foil 0.01
+Gruul Signet GPT online foil 0.01
+Orzhov Signet GPT online foil 0.01
+Vertigo Spawn GPT online foil 0.01
+Orzhova, the Church of Deals GPT online foil 0.01
+Skarrg, the Rage Pits GPT online foil 0.01
+Wildsize GPT online foil 0.01
+Wee Dragonauts GPT online foil 0.01
+Leyline of the Void GPT paper nonfoil 19.94
+Stomping Ground GPT paper nonfoil 17.69
+Steam Vents GPT paper nonfoil 16.15
+Godless Shrine GPT paper nonfoil 14.24
+Debtors Knell GPT paper nonfoil 8.57
+Orzhov Pontiff GPT paper nonfoil 7.27
+Shattering Spree GPT paper nonfoil 6.41
+Ghostway GPT paper nonfoil 5.73
+Stitch in Time GPT paper nonfoil 3.89
+Teysa, Orzhov Scion GPT paper nonfoil 3.45
+Angel of Despair GPT paper nonfoil 3.36
+Niv-Mizzet, the Firemind GPT paper nonfoil 2.89
+Leyline of Lifeforce GPT paper nonfoil 2.5
+Storm Herd GPT paper nonfoil 2.45
+Ulasht, the Hate Seed GPT paper nonfoil 1.87
+Souls of the Faultless GPT paper nonfoil 1.66
+Yore-Tiller Nephilim GPT paper nonfoil 1.57
+Leyline of the Meek GPT paper nonfoil 1.48
+Burning-Tree Shaman GPT paper nonfoil 1.44
+Quicken GPT paper nonfoil 1.23
+Abyssal Nocturnus GPT paper nonfoil 1.16
+Ink-Treader Nephilim GPT paper nonfoil 0.95
+Cerebral Vortex GPT paper nonfoil 0.94
+Witch-Maw Nephilim GPT paper nonfoil 0.93
+Dune-Brood Nephilim GPT paper nonfoil 0.92
+Mortify GPT paper nonfoil 0.9
+Ghost Council of Orzhova GPT paper nonfoil 0.89
+Leyline of Singularity GPT paper nonfoil 0.85
+Electrolyze GPT paper nonfoil 0.8
+Silhana Ledgewalker GPT paper nonfoil 0.72
+Gelectrode GPT paper nonfoil 0.67
+Borborygmos GPT paper nonfoil 0.67
+Glint-Eye Nephilim GPT paper nonfoil 0.66
+Spelltithe Enforcer GPT paper nonfoil 0.61
+Invoke the Firemind GPT paper nonfoil 0.52
+Sword of the Paruns GPT paper nonfoil 0.52
+Djinn Illuminatus GPT paper nonfoil 0.5
+Giant Solifuge GPT paper nonfoil 0.5
+Hatching Plans GPT paper nonfoil 0.49
+Mizzium Transreliquat GPT paper nonfoil 0.48
+Gruul War Plow GPT paper nonfoil 0.47
+Rumbling Slum GPT paper nonfoil 0.45
+Skeletal Vampire GPT paper nonfoil 0.43
+Seize the Soul GPT paper nonfoil 0.42
+Sky Swallower GPT paper nonfoil 0.42
+Culling Sun GPT paper nonfoil 0.41
+Killer Instinct GPT paper nonfoil 0.39
+Graven Dominator GPT paper nonfoil 0.38
+Wurmweaver Coil GPT paper nonfoil 0.37
+Tibor and Lumia GPT paper nonfoil 0.36
+Gruul Turf GPT paper nonfoil 0.35
+Earth Surge GPT paper nonfoil 0.35
+Leyline of Lightning GPT paper nonfoil 0.35
+Mimeofacture GPT paper nonfoil 0.35
+Order of the Stars GPT paper nonfoil 0.34
+Bioplasm GPT paper nonfoil 0.34
+Living Inferno GPT paper nonfoil 0.34
+Petrified Wood-Kin GPT paper nonfoil 0.34
+Aetherplasm GPT paper nonfoil 0.33
+Parallectric Feedback GPT paper nonfoil 0.33
+To Arms! GPT paper nonfoil 0.33
+Siege of Towers GPT paper nonfoil 0.32
+Sanguine Praetor GPT paper nonfoil 0.32
+Skarrgan Firebird GPT paper nonfoil 0.32
+Moratorium Stone GPT paper nonfoil 0.31
+Izzet Guildmage GPT paper nonfoil 0.3
+Orzhov Basilica GPT paper nonfoil 0.29
+Skarrg, the Rage Pits GPT paper nonfoil 0.27
+Agent of Masks GPT paper nonfoil 0.26
+Hissing Miasma GPT paper nonfoil 0.25
+Izzet Boilerworks GPT paper nonfoil 0.25
+Gigadrowse GPT paper nonfoil 0.24
+Izzet Signet GPT paper nonfoil 0.24
+Orzhov Signet GPT paper nonfoil 0.24
+Shadow Lance GPT paper nonfoil 0.24
+Conjurers Ban GPT paper nonfoil 0.23
+Gristleback GPT paper nonfoil 0.23
+Savage Twister GPT paper nonfoil 0.23
+Vedalken Plotter GPT paper nonfoil 0.23
+Primeval Light GPT paper nonfoil 0.22
+Orzhov Guildmage GPT paper nonfoil 0.22
+Crash Landing GPT paper nonfoil 0.21
+Droning Bureaucrats GPT paper nonfoil 0.21
+Gatherer of Graces GPT paper nonfoil 0.21
+Goblin Flectomancer GPT paper nonfoil 0.21
+Hypervolt Grasp GPT paper nonfoil 0.21
+Predatory Focus GPT paper nonfoil 0.21
+Orzhova, the Church of Deals GPT paper nonfoil 0.21
+Vacuumelt GPT paper nonfoil 0.21
+Stratozeppelid GPT paper nonfoil 0.21
+Battering Wurm GPT paper nonfoil 0.2
+Drowned Rusalka GPT paper nonfoil 0.2
+Cryptwailing GPT paper nonfoil 0.2
+Daggerclaw Imp GPT paper nonfoil 0.2
+Belfry Spirit GPT paper nonfoil 0.2
+Caustic Rain GPT paper nonfoil 0.2
+Castigate GPT paper nonfoil 0.2
+Ghor-Clan Bloodscale GPT paper nonfoil 0.2
+Gruul Guildmage GPT paper nonfoil 0.2
+Dryad Sophisticate GPT paper nonfoil 0.2
+Feral Animist GPT paper nonfoil 0.2
+Exhumer Thrull GPT paper nonfoil 0.2
+Martyred Rusalka GPT paper nonfoil 0.2
+Harrier Griffin GPT paper nonfoil 0.2
+Gruul Signet GPT paper nonfoil 0.2
+Plagued Rusalka GPT paper nonfoil 0.2
+Scorched Rusalka GPT paper nonfoil 0.2
+Sinstrikers Will GPT paper nonfoil 0.2
+Skarrgan Pit-Skulk GPT paper nonfoil 0.2
+Revenant Patriarch GPT paper nonfoil 0.2
+Rabble-Rouser GPT paper nonfoil 0.2
+Schismotivate GPT paper nonfoil 0.2
+Skarrgan Skybreaker GPT paper nonfoil 0.2
+Starved Rusalka GPT paper nonfoil 0.2
+Thunderheads GPT paper nonfoil 0.2
+Wreak Havoc GPT paper nonfoil 0.2
+Vertigo Spawn GPT paper nonfoil 0.2
+Cry of Contrition GPT paper nonfoil 0.19
+Frazzle GPT paper nonfoil 0.19
+Nivix, Aerie of the Firemind GPT paper nonfoil 0.19
+Repeal GPT paper nonfoil 0.19
+Smogsteed Rider GPT paper nonfoil 0.19
+Pillory of the Sleepless GPT paper nonfoil 0.18
+Mourning Thrull GPT paper nonfoil 0.18
+Beastmasters Magemark GPT paper nonfoil 0.17
+Burning-Tree Bloodscale GPT paper nonfoil 0.17
+Benediction of Moons GPT paper nonfoil 0.17
+Ghost Warden GPT paper nonfoil 0.17
+Infiltrators Magemark GPT paper nonfoil 0.17
+Lionheart Maverick GPT paper nonfoil 0.17
+Scab-Clan Mauler GPT paper nonfoil 0.17
+Skyrider Trainee GPT paper nonfoil 0.17
+Torch Drake GPT paper nonfoil 0.17
+Wild Cantor GPT paper nonfoil 0.17
+Crystal Seer GPT paper nonfoil 0.16
+Bloodscale Prowler GPT paper nonfoil 0.16
+Cremate GPT paper nonfoil 0.16
+Douse in Gloom GPT paper nonfoil 0.16
+Blind Hunter GPT paper nonfoil 0.16
+Gruul Nodorog GPT paper nonfoil 0.16
+Gruul Scrapper GPT paper nonfoil 0.16
+Leap of Flame GPT paper nonfoil 0.16
+Izzet Chronarch GPT paper nonfoil 0.16
+Necromancers Magemark GPT paper nonfoil 0.16
+Ostiary Thrull GPT paper nonfoil 0.16
+Ogre Savant GPT paper nonfoil 0.16
+Pyromatics GPT paper nonfoil 0.16
+Restless Bones GPT paper nonfoil 0.16
+Silhana Starfletcher GPT paper nonfoil 0.16
+Shrieking Grotesque GPT paper nonfoil 0.16
+Train of Thought GPT paper nonfoil 0.16
+Tin Street Hooligan GPT paper nonfoil 0.16
+Steamcore Weird GPT paper nonfoil 0.16
+Wildsize GPT paper nonfoil 0.16
+Wee Dragonauts GPT paper nonfoil 0.16
+Withstand GPT paper nonfoil 0.16
+Absolver Thrull GPT paper nonfoil 0.15
+Fencers Magemark GPT paper nonfoil 0.15
+Ghor-Clan Savage GPT paper nonfoil 0.15
+Guardians Magemark GPT paper nonfoil 0.15
+Poisonbelly Ogre GPT paper nonfoil 0.15
+Orzhov Euthanist GPT paper nonfoil 0.15
+Petrahydrox GPT paper nonfoil 0.15
+Runeboggle GPT paper nonfoil 0.15
+Streetbreaker Wurm GPT paper nonfoil 0.15
+Steam Vents GPT paper foil 110.04
+Stomping Ground GPT paper foil 105.02
+Godless Shrine GPT paper foil 80.39
+Leyline of the Void GPT paper foil 73.79
+Teysa, Orzhov Scion GPT paper foil 35.43
+Angel of Despair GPT paper foil 35.12
+Orzhov Pontiff GPT paper foil 27.35
+Debtors Knell GPT paper foil 19.65
+Shattering Spree GPT paper foil 17.99
+Ghostway GPT paper foil 14.88
+Yore-Tiller Nephilim GPT paper foil 14.71
+Niv-Mizzet, the Firemind GPT paper foil 14.67
+Dune-Brood Nephilim GPT paper foil 9.62
+Ulasht, the Hate Seed GPT paper foil 8.99
+Witch-Maw Nephilim GPT paper foil 8.36
+Ink-Treader Nephilim GPT paper foil 8.21
+Quicken GPT paper foil 8.0
+Izzet Signet GPT paper foil 7.75
+Electrolyze GPT paper foil 7.26
+Storm Herd GPT paper foil 7.22
+Glint-Eye Nephilim GPT paper foil 6.85
+Orzhov Signet GPT paper foil 6.68
+Stitch in Time GPT paper foil 6.61
+Gigadrowse GPT paper foil 6.6
+Sword of the Paruns GPT paper foil 5.25
+Leyline of Lifeforce GPT paper foil 4.88
+Ghost Council of Orzhova GPT paper foil 4.67
+Repeal GPT paper foil 4.65
+Cerebral Vortex GPT paper foil 4.49
+Souls of the Faultless GPT paper foil 4.42
+Tibor and Lumia GPT paper foil 4.38
+Burning-Tree Shaman GPT paper foil 4.19
+Mortify GPT paper foil 4.03
+Invoke the Firemind GPT paper foil 3.88
+Borborygmos GPT paper foil 3.81
+Spelltithe Enforcer GPT paper foil 3.69
+Leyline of the Meek GPT paper foil 3.6
+Gelectrode GPT paper foil 3.49
+Izzet Boilerworks GPT paper foil 3.43
+Gruul Turf GPT paper foil 3.27
+Orzhov Basilica GPT paper foil 3.12
+Leyline of Singularity GPT paper foil 3.12
+Hatching Plans GPT paper foil 3.04
+Mizzium Transreliquat GPT paper foil 2.93
+Skeletal Vampire GPT paper foil 2.89
+Silhana Ledgewalker GPT paper foil 2.75
+Skarrg, the Rage Pits GPT paper foil 2.68
+Gruul Signet GPT paper foil 2.43
+Giant Solifuge GPT paper foil 2.42
+Izzet Guildmage GPT paper foil 2.31
+Abyssal Nocturnus GPT paper foil 2.08
+Djinn Illuminatus GPT paper foil 2.01
+Wild Cantor GPT paper foil 1.75
+Gruul War Plow GPT paper foil 1.67
+Rumbling Slum GPT paper foil 1.6
+Orzhov Guildmage GPT paper foil 1.48
+Izzet Chronarch GPT paper foil 1.45
+Agent of Masks GPT paper foil 1.35
+Culling Sun GPT paper foil 1.34
+Seize the Soul GPT paper foil 1.31
+Sky Swallower GPT paper foil 1.3
+Graven Dominator GPT paper foil 1.3
+Wurmweaver Coil GPT paper foil 1.27
+Mimeofacture GPT paper foil 1.21
+Parallectric Feedback GPT paper foil 1.14
+Tin Street Hooligan GPT paper foil 1.14
+Wee Dragonauts GPT paper foil 1.14
+Earth Surge GPT paper foil 1.07
+Living Inferno GPT paper foil 1.07
+Hissing Miasma GPT paper foil 1.05
+Goblin Flectomancer GPT paper foil 1.02
+Siege of Towers GPT paper foil 1.01
+Petrified Wood-Kin GPT paper foil 1.01
+Pillory of the Sleepless GPT paper foil 1.0
+To Arms! GPT paper foil 1.0
+Aetherplasm GPT paper foil 0.99
+Sanguine Praetor GPT paper foil 0.99
+Castigate GPT paper foil 0.97
+Moratorium Stone GPT paper foil 0.96
+Skarrgan Firebird GPT paper foil 0.95
+Killer Instinct GPT paper foil 0.92
+Savage Twister GPT paper foil 0.92
+Leyline of Lightning GPT paper foil 0.92
+Vedalken Plotter GPT paper foil 0.9
+Bioplasm GPT paper foil 0.89
+Orzhova, the Church of Deals GPT paper foil 0.86
+Dryad Sophisticate GPT paper foil 0.83
+Order of the Stars GPT paper foil 0.81
+Wreak Havoc GPT paper foil 0.72
+Skarrgan Pit-Skulk GPT paper foil 0.59
+Drowned Rusalka GPT paper foil 0.58
+Shadow Lance GPT paper foil 0.58
+Belfry Spirit GPT paper foil 0.56
+Plagued Rusalka GPT paper foil 0.56
+Cry of Contrition GPT paper foil 0.52
+Blind Hunter GPT paper foil 0.52
+Scorched Rusalka GPT paper foil 0.52
+Nivix, Aerie of the Firemind GPT paper foil 0.51
+Mourning Thrull GPT paper foil 0.49
+Gatherer of Graces GPT paper foil 0.46
+Droning Bureaucrats GPT paper foil 0.44
+Caustic Rain GPT paper foil 0.44
+Conjurers Ban GPT paper foil 0.44
+Gruul Guildmage GPT paper foil 0.44
+Schismotivate GPT paper foil 0.44
+Crash Landing GPT paper foil 0.42
+Predatory Focus GPT paper foil 0.42
+Rabble-Rouser GPT paper foil 0.42
+Starved Rusalka GPT paper foil 0.42
+Martyred Rusalka GPT paper foil 0.41
+Primeval Light GPT paper foil 0.41
+Scab-Clan Mauler GPT paper foil 0.41
+Revenant Patriarch GPT paper foil 0.41
+Exhumer Thrull GPT paper foil 0.4
+Hypervolt Grasp GPT paper foil 0.4
+Skarrgan Skybreaker GPT paper foil 0.4
+Train of Thought GPT paper foil 0.4
+Thunderheads GPT paper foil 0.4
+Frazzle GPT paper foil 0.39
+Vertigo Spawn GPT paper foil 0.39
+Cryptwailing GPT paper foil 0.38
+Daggerclaw Imp GPT paper foil 0.38
+Gristleback GPT paper foil 0.38
+Feral Animist GPT paper foil 0.38
+Smogsteed Rider GPT paper foil 0.38
+Infiltrators Magemark GPT paper foil 0.37
+Vacuumelt GPT paper foil 0.37
+Stratozeppelid GPT paper foil 0.37
+Harrier Griffin GPT paper foil 0.36
+Sinstrikers Will GPT paper foil 0.36
+Battering Wurm GPT paper foil 0.33
+Ghor-Clan Bloodscale GPT paper foil 0.33
+Wildsize GPT paper foil 0.33
+Cremate GPT paper foil 0.32
+Ostiary Thrull GPT paper foil 0.32
+Silhana Starfletcher GPT paper foil 0.31
+Fencers Magemark GPT paper foil 0.3
+Necromancers Magemark GPT paper foil 0.3
+Absolver Thrull GPT paper foil 0.29
+Ghor-Clan Savage GPT paper foil 0.29
+Ghost Warden GPT paper foil 0.29
+Guardians Magemark GPT paper foil 0.29
+Shrieking Grotesque GPT paper foil 0.29
+Steamcore Weird GPT paper foil 0.29
+Benediction of Moons GPT paper foil 0.28
+Gruul Nodorog GPT paper foil 0.28
+Leap of Flame GPT paper foil 0.28
+Pyromatics GPT paper foil 0.28
+Withstand GPT paper foil 0.28
+Burning-Tree Bloodscale GPT paper foil 0.27
+Petrahydrox GPT paper foil 0.27
+Ogre Savant GPT paper foil 0.27
+Crystal Seer GPT paper foil 0.26
+Douse in Gloom GPT paper foil 0.26
+Gruul Scrapper GPT paper foil 0.26
+Poisonbelly Ogre GPT paper foil 0.26
+Beastmasters Magemark GPT paper foil 0.25
+Bloodscale Prowler GPT paper foil 0.25
+Lionheart Maverick GPT paper foil 0.25
+Orzhov Euthanist GPT paper foil 0.25
+Restless Bones GPT paper foil 0.25
+Runeboggle GPT paper foil 0.25
+Streetbreaker Wurm GPT paper foil 0.25
+Skyrider Trainee GPT paper foil 0.25
+Torch Drake GPT paper foil 0.25
+Blood Moon DRK paper nonfoil 53.98
+Stone Calendar DRK paper nonfoil 42.5
+Mana Vortex DRK paper nonfoil 27.99
+Maze of Ith DRK paper nonfoil 18.04
+Preacher DRK paper nonfoil 15.2
+City of Shadows DRK paper nonfoil 13.99
+Goblin Wizard DRK paper nonfoil 13.72
+Season of the Witch DRK paper nonfoil 10.79
+Ball Lightning DRK paper nonfoil 5.13
+Eater of the Dead DRK paper nonfoil 4.75
+Fellwar Stone DRK paper nonfoil 4.39
+Tormods Crypt DRK paper nonfoil 1.92
+Elves of Deep Shadow DRK paper nonfoil 1.77
+Exorcist DRK paper nonfoil 1.3
+Dark Sphere DRK paper nonfoil 1.28
+Worms of the Earth DRK paper nonfoil 1.24
+Cleansing DRK paper nonfoil 1.23
+Apprentice Wizard DRK paper nonfoil 1.19
+Sorrows Path DRK paper nonfoil 1.0
+Dance of Many DRK paper nonfoil 0.99
+Frankensteins Monster DRK paper nonfoil 0.93
+Leviathan DRK paper nonfoil 0.92
+Knights of Thorn DRK paper nonfoil 0.89
+Safe Haven DRK paper nonfoil 0.88
+Inferno DRK paper nonfoil 0.85
+Martyrs Cry DRK paper nonfoil 0.77
+Witch Hunter DRK paper nonfoil 0.75
+Mind Bomb DRK paper nonfoil 0.74
+Niall Silvain DRK paper nonfoil 0.71
+Amnesia DRK paper nonfoil 0.69
+Hidden Path DRK paper nonfoil 0.69
+Tracker DRK paper nonfoil 0.68
+Scarwood Bandits DRK paper nonfoil 0.65
+Tivadars Crusade DRK paper nonfoil 0.64
+Wormwood Treefolk DRK paper nonfoil 0.55
+Grave Robbers DRK paper nonfoil 0.55
+Skull of Orm DRK paper nonfoil 0.54
+Mana Clash DRK paper nonfoil 0.51
+Gaeas Touch DRK paper nonfoil 0.5
+Eternal Flame DRK paper nonfoil 0.49
+Psychic Allergy DRK paper nonfoil 0.48
+Merfolk Assassin DRK paper nonfoil 0.46
+Rag Man DRK paper nonfoil 0.46
+Goblin Caves DRK paper nonfoil 0.46
+Barls Cage DRK paper nonfoil 0.45
+Nameless Race DRK paper nonfoil 0.44
+Lurker DRK paper nonfoil 0.41
+Holy Light DRK paper nonfoil 0.37
+Scarecrow DRK paper nonfoil 0.36
+Uncle Istvan DRK paper nonfoil 0.33
+Flood DRK paper nonfoil 0.32
+Ashes to Ashes DRK paper nonfoil 0.3
+Fountain of Youth DRK paper nonfoil 0.3
+Wand of Ith DRK paper nonfoil 0.29
+Book of Rass DRK paper nonfoil 0.29
+War Barge DRK paper nonfoil 0.28
+Dust to Dust DRK paper nonfoil 0.28
+Blood of the Martyr DRK paper nonfoil 0.26
+Necropolis DRK paper nonfoil 0.25
+Reflecting Mirror DRK paper nonfoil 0.25
+The Fallen DRK paper nonfoil 0.25
+Angry Mob DRK paper nonfoil 0.25
+Banshee DRK paper nonfoil 0.25
+Runesword DRK paper nonfoil 0.24
+Sisters of the Flame DRK paper nonfoil 0.24
+Tower of Coireall DRK paper nonfoil 0.24
+Whippoorwill DRK paper nonfoil 0.24
+Coal Golem DRK paper nonfoil 0.24
+Electric Eel DRK paper nonfoil 0.24
+Fasting DRK paper nonfoil 0.24
+People of the Woods DRK paper nonfoil 0.23
+Scarwood Hag DRK paper nonfoil 0.23
+Standing Stones DRK paper nonfoil 0.23
+Tangle Kelp DRK paper nonfoil 0.23
+Brothers of Fire DRK paper nonfoil 0.23
+Curse Artifact DRK paper nonfoil 0.23
+Spitting Slug DRK paper nonfoil 0.22
+Bone Flute DRK paper nonfoil 0.22
+Cave People DRK paper nonfoil 0.22
+Diabolic Machine DRK paper nonfoil 0.22
+Fire and Brimstone DRK paper nonfoil 0.22
+Fire Drake DRK paper nonfoil 0.22
+Living Armor DRK paper nonfoil 0.21
+Orc General DRK paper nonfoil 0.21
+Fissure DRK paper nonfoil 0.18
+Giant Shark DRK paper nonfoil 0.18
+Marsh Viper DRK paper nonfoil 0.17
+Scavenger Folk DRK paper nonfoil 0.17
+Word of Binding DRK paper nonfoil 0.17
+Bog Rats DRK paper nonfoil 0.17
+Carnivorous Plant DRK paper nonfoil 0.17
+Drowned DRK paper nonfoil 0.17
+Festival DRK paper nonfoil 0.17
+Goblin Digging Team DRK paper nonfoil 0.17
+Goblin Rock Sled DRK paper nonfoil 0.17
+Marsh Goblins DRK paper nonfoil 0.16
+Miracle Worker DRK paper nonfoil 0.16
+Morale DRK paper nonfoil 0.16
+Murk Dwellers DRK paper nonfoil 0.16
+Pikemen DRK paper nonfoil 0.16
+Riptide DRK paper nonfoil 0.16
+Savaen Elves DRK paper nonfoil 0.16
+Scarwood Goblins DRK paper nonfoil 0.16
+Squire DRK paper nonfoil 0.16
+Sunken City DRK paper nonfoil 0.16
+Venom DRK paper nonfoil 0.16
+Water Wurm DRK paper nonfoil 0.16
+Bog Imp DRK paper nonfoil 0.16
+Brainwash DRK paper nonfoil 0.16
+Dark Heart of the Wood DRK paper nonfoil 0.16
+Deep Water DRK paper nonfoil 0.16
+Erosion DRK paper nonfoil 0.16
+Ghost Ship DRK paper nonfoil 0.16
+Goblin Hero DRK paper nonfoil 0.16
+Goblin Shrine DRK paper nonfoil 0.16
+Goblins of the Flarg DRK paper nonfoil 0.16
+Inquisition DRK paper nonfoil 0.16
+Land Leeches DRK paper nonfoil 0.16
+Marsh Gas DRK paper nonfoil 0.15
+Goryos Vengeance BOK online nonfoil 12.28
+Ninja of the Deep Hours BOK online nonfoil 3.2
+Disrupting Shoal BOK online nonfoil 2.96
+Kira, Great Glass-Spinner BOK online nonfoil 2.34
+Umezawas Jitte BOK online nonfoil 1.81
+Threads of Disloyalty BOK online nonfoil 1.37
+Hokori, Dust Drinker BOK online nonfoil 0.78
+Sickening Shoal BOK online nonfoil 0.48
+Nourishing Shoal BOK online nonfoil 0.41
+Shining Shoal BOK online nonfoil 0.38
+Mirror Gallery BOK online nonfoil 0.36
+Ink-Eyes, Servant of Oni BOK online nonfoil 0.21
+Heartless Hidetsugu BOK online nonfoil 0.21
+Shizuko, Caller of Autumn BOK online nonfoil 0.11
+Patron of the Orochi BOK online nonfoil 0.1
+Blazing Shoal BOK online nonfoil 0.1
+Tendo Ice Bridge BOK online nonfoil 0.07
+Uproot BOK online nonfoil 0.06
+Goblin Cohort BOK online nonfoil 0.05
+Flames of the Blood Hand BOK online nonfoil 0.05
+Kami of False Hope BOK online nonfoil 0.04
+Shirei, Shizos Caretaker BOK online nonfoil 0.04
+Final Judgment BOK online nonfoil 0.04
+Genju of the Realm BOK online nonfoil 0.04
+Shinka Gatekeeper BOK online nonfoil 0.04
+Okiba-Gang Shinobi BOK online nonfoil 0.03
+Heart of Light BOK online nonfoil 0.02
+Genju of the Fields BOK online nonfoil 0.02
+Day of Destiny BOK online nonfoil 0.02
+Throat Slitter BOK online nonfoil 0.02
+Toshiro Umezawa BOK online nonfoil 0.02
+Call for Blood BOK online nonfoil 0.02
+Psychic Spear BOK online nonfoil 0.02
+Shuko BOK online nonfoil 0.02
+Callow Jushi BOK online nonfoil 0.02
+Mistblade Shinobi BOK online nonfoil 0.02
+Patron of the Moon BOK online nonfoil 0.02
+Soratami Mindsweeper BOK online nonfoil 0.02
+Walker of Secret Ways BOK online nonfoil 0.02
+Minamos Meddling BOK online nonfoil 0.02
+Iwamori of the Open Fist BOK online nonfoil 0.02
+Sakiko, Mother of Summer BOK online nonfoil 0.02
+Traproot Kami BOK online nonfoil 0.02
+Ashen Monstrosity BOK online nonfoil 0.02
+Frostling BOK online nonfoil 0.02
+Kumanos Blessing BOK online nonfoil 0.02
+First Volley BOK online nonfoil 0.02
+Crack the Earth BOK online nonfoil 0.02
+Twist Allegiance BOK online nonfoil 0.01
+Empty-Shrine Kannushi BOK online nonfoil 0.01
+Faithful Squire BOK online nonfoil 0.01
+Indebted Samurai BOK online nonfoil 0.01
+Kami of Tattered Shoji BOK online nonfoil 0.01
+Kami of the Honored Dead BOK online nonfoil 0.01
+Kentaro, the Smiling Cat BOK online nonfoil 0.01
+Moonlit Strider BOK online nonfoil 0.01
+Bile Urchin BOK online nonfoil 0.01
+Kitsune Palliator BOK online nonfoil 0.01
+Crawling Filth BOK online nonfoil 0.01
+Opal-Eye, Kondas Yojimbo BOK online nonfoil 0.01
+Hired Muscle BOK online nonfoil 0.01
+Oyobi, Who Split the Heavens BOK online nonfoil 0.01
+Patron of the Kitsune BOK online nonfoil 0.01
+Kyoki, Sanitys Eclipse BOK online nonfoil 0.01
+Silverstorm Samurai BOK online nonfoil 0.01
+Nezumi Shadow-Watcher BOK online nonfoil 0.01
+Split-Tail Miko BOK online nonfoil 0.01
+Ogre Marauder BOK online nonfoil 0.01
+Takenos Cavalry BOK online nonfoil 0.01
+Tallowisp BOK online nonfoil 0.01
+Patron of the Nezumi BOK online nonfoil 0.01
+Waxmane Baku BOK online nonfoil 0.01
+Pus Kami BOK online nonfoil 0.01
+Yomiji, Who Bars the Way BOK online nonfoil 0.01
+Scourge of Numai BOK online nonfoil 0.01
+Ward of Piety BOK online nonfoil 0.01
+Skullmane Baku BOK online nonfoil 0.01
+Skullsnatcher BOK online nonfoil 0.01
+Takenuma Bleeder BOK online nonfoil 0.01
+Hundred-Talon Strike BOK online nonfoil 0.01
+Mending Hands BOK online nonfoil 0.01
+Scour BOK online nonfoil 0.01
+Yukora, the Prisoner BOK online nonfoil 0.01
+Blessing of Leeches BOK online nonfoil 0.01
+Terashis Verdict BOK online nonfoil 0.01
+Mark of the Oni BOK online nonfoil 0.01
+Genju of the Fens BOK online nonfoil 0.01
+Terashis Grasp BOK online nonfoil 0.01
+Baku Altar BOK online nonfoil 0.01
+Heros Demise BOK online nonfoil 0.01
+Blinding Powder BOK online nonfoil 0.01
+Horobis Whisper BOK online nonfoil 0.01
+Neko-Te BOK online nonfoil 0.01
+Eradicate BOK online nonfoil 0.01
+Orb of Dreams BOK online nonfoil 0.01
+Ornate Kanzashi BOK online nonfoil 0.01
+Stir the Grave BOK online nonfoil 0.01
+Ronin Warclub BOK online nonfoil 0.01
+Three Tragedies BOK online nonfoil 0.01
+Shuriken BOK online nonfoil 0.01
+Chisei, Heart of Oceans BOK online nonfoil 0.01
+Slumbering Tora BOK online nonfoil 0.01
+Floodbringer BOK online nonfoil 0.01
+That Which Was Taken BOK online nonfoil 0.01
+Higure, the Still Wind BOK online nonfoil 0.01
+Jetting Glasskite BOK online nonfoil 0.01
+Gods Eye, Gate to the Reikai BOK online nonfoil 0.01
+Kaijin of the Vanishing Touch BOK online nonfoil 0.01
+Minamo Sightbender BOK online nonfoil 0.01
+Quillmane Baku BOK online nonfoil 0.01
+Shimmering Glasskite BOK online nonfoil 0.01
+Teardrop Kami BOK online nonfoil 0.01
+Tomorrow, Azamis Familiar BOK online nonfoil 0.01
+Phantom Wings BOK online nonfoil 0.01
+Genju of the Falls BOK online nonfoil 0.01
+Quash BOK online nonfoil 0.01
+Stream of Consciousness BOK online nonfoil 0.01
+Toils of Night and Day BOK online nonfoil 0.01
+Veil of Secrecy BOK online nonfoil 0.01
+Heed the Mists BOK online nonfoil 0.01
+Reduce to Dreams BOK online nonfoil 0.01
+Ribbons of the Reikai BOK online nonfoil 0.01
+Sway of the Stars BOK online nonfoil 0.01
+Body of Jukai BOK online nonfoil 0.01
+Budoka Pupil BOK online nonfoil 0.01
+Child of Thorns BOK online nonfoil 0.01
+Forked-Branch Garami BOK online nonfoil 0.01
+Gnarled Mass BOK online nonfoil 0.01
+Harbinger of Spring BOK online nonfoil 0.01
+Isao, Enlightened Bushi BOK online nonfoil 0.01
+Kodama of the Center Tree BOK online nonfoil 0.01
+Lifespinner BOK online nonfoil 0.01
+Loam Dweller BOK online nonfoil 0.01
+Matsu-Tribe Sniper BOK online nonfoil 0.01
+Petalmane Baku BOK online nonfoil 0.01
+Sakura-Tribe Springcaller BOK online nonfoil 0.01
+Scaled Hulk BOK online nonfoil 0.01
+Mark of Sakiko BOK online nonfoil 0.01
+Genju of the Cedars BOK online nonfoil 0.01
+Lifegift BOK online nonfoil 0.01
+Roar of Jukai BOK online nonfoil 0.01
+Unchecked Growth BOK online nonfoil 0.01
+Vital Surge BOK online nonfoil 0.01
+Enshrined Memories BOK online nonfoil 0.01
+Sosukes Summons BOK online nonfoil 0.01
+Splinter BOK online nonfoil 0.01
+Akki Blizzard-Herder BOK online nonfoil 0.01
+Akki Raider BOK online nonfoil 0.01
+Blademane Baku BOK online nonfoil 0.01
+Cunning Bandit BOK online nonfoil 0.01
+Frost Ogre BOK online nonfoil 0.01
+Fumiko the Lowblood BOK online nonfoil 0.01
+Ishi-Ishi, Akki Crackshot BOK online nonfoil 0.01
+Mannichi, the Fevered Dream BOK online nonfoil 0.01
+Ogre Recluse BOK online nonfoil 0.01
+Patron of the Akki BOK online nonfoil 0.01
+Ronin Cliffrider BOK online nonfoil 0.01
+Genju of the Spires BOK online nonfoil 0.01
+Clash of Realities BOK online nonfoil 0.01
+In the Web of War BOK online nonfoil 0.01
+Aura Barbs BOK online nonfoil 0.01
+Ire of Kaminari BOK online nonfoil 0.01
+Overblaze BOK online nonfoil 0.01
+Torrent of Stone BOK online nonfoil 0.01
+Sowing Salt BOK online nonfoil 0.01
+Goryos Vengeance BOK online foil 19.59
+Umezawas Jitte BOK online foil 4.86
+Disrupting Shoal BOK online foil 4.56
+Threads of Disloyalty BOK online foil 4.24
+Ninja of the Deep Hours BOK online foil 4.14
+Tendo Ice Bridge BOK online foil 3.82
+Kira, Great Glass-Spinner BOK online foil 3.42
+Mirror Gallery BOK online foil 1.99
+Nourishing Shoal BOK online foil 1.89
+Sickening Shoal BOK online foil 1.59
+Hokori, Dust Drinker BOK online foil 1.28
+Shining Shoal BOK online foil 1.08
+Ink-Eyes, Servant of Oni BOK online foil 0.96
+Patron of the Orochi BOK online foil 0.93
+Shirei, Shizos Caretaker BOK online foil 0.78
+Goblin Cohort BOK online foil 0.55
+Flames of the Blood Hand BOK online foil 0.49
+Matsu-Tribe Sniper BOK online foil 0.47
+Stir the Grave BOK online foil 0.44
+Heartless Hidetsugu BOK online foil 0.43
+Opal-Eye, Kondas Yojimbo BOK online foil 0.42
+Blazing Shoal BOK online foil 0.42
+Final Judgment BOK online foil 0.4
+Sakiko, Mother of Summer BOK online foil 0.4
+Higure, the Still Wind BOK online foil 0.38
+In the Web of War BOK online foil 0.35
+Fumiko the Lowblood BOK online foil 0.34
+Shizuko, Caller of Autumn BOK online foil 0.33
+Genju of the Realm BOK online foil 0.3
+Patron of the Nezumi BOK online foil 0.29
+Lifegift BOK online foil 0.29
+Clash of Realities BOK online foil 0.26
+Kentaro, the Smiling Cat BOK online foil 0.24
+Heros Demise BOK online foil 0.24
+Child of Thorns BOK online foil 0.21
+Petalmane Baku BOK online foil 0.21
+Hundred-Talon Strike BOK online foil 0.12
+Blessing of Leeches BOK online foil 0.12
+Reduce to Dreams BOK online foil 0.12
+Vital Surge BOK online foil 0.11
+Uproot BOK online foil 0.1
+Silverstorm Samurai BOK online foil 0.09
+Okiba-Gang Shinobi BOK online foil 0.08
+Neko-Te BOK online foil 0.08
+Orb of Dreams BOK online foil 0.08
+Kodama of the Center Tree BOK online foil 0.08
+Isao, Enlightened Bushi BOK online foil 0.07
+Sakura-Tribe Springcaller BOK online foil 0.07
+Ogre Recluse BOK online foil 0.07
+Bile Urchin BOK online foil 0.06
+Baku Altar BOK online foil 0.06
+Kaijin of the Vanishing Touch BOK online foil 0.06
+Sway of the Stars BOK online foil 0.06
+Body of Jukai BOK online foil 0.06
+Forked-Branch Garami BOK online foil 0.06
+Mannichi, the Fevered Dream BOK online foil 0.06
+Indebted Samurai BOK online foil 0.05
+Kami of False Hope BOK online foil 0.05
+Waxmane Baku BOK online foil 0.05
+Day of Destiny BOK online foil 0.05
+Mending Hands BOK online foil 0.05
+Call for Blood BOK online foil 0.05
+Psychic Spear BOK online foil 0.05
+Veil of Secrecy BOK online foil 0.05
+Heed the Mists BOK online foil 0.05
+Ribbons of the Reikai BOK online foil 0.05
+Shinka Gatekeeper BOK online foil 0.05
+Faithful Squire BOK online foil 0.04
+Ogre Marauder BOK online foil 0.04
+Yukora, the Prisoner BOK online foil 0.04
+Horobis Whisper BOK online foil 0.04
+Jetting Glasskite BOK online foil 0.04
+Teardrop Kami BOK online foil 0.04
+Budoka Pupil BOK online foil 0.04
+Iwamori of the Open Fist BOK online foil 0.04
+Mark of Sakiko BOK online foil 0.04
+Frostling BOK online foil 0.04
+Ishi-Ishi, Akki Crackshot BOK online foil 0.04
+Patron of the Akki BOK online foil 0.04
+Twist Allegiance BOK online foil 0.03
+Hired Muscle BOK online foil 0.03
+Patron of the Kitsune BOK online foil 0.03
+Tallowisp BOK online foil 0.03
+Yomiji, Who Bars the Way BOK online foil 0.03
+Genju of the Fields BOK online foil 0.03
+Skullsnatcher BOK online foil 0.03
+Throat Slitter BOK online foil 0.03
+Toshiro Umezawa BOK online foil 0.03
+Scour BOK online foil 0.03
+Genju of the Fens BOK online foil 0.03
+Eradicate BOK online foil 0.03
+Shuko BOK online foil 0.03
+Slumbering Tora BOK online foil 0.03
+That Which Was Taken BOK online foil 0.03
+Gods Eye, Gate to the Reikai BOK online foil 0.03
+Minamo Sightbender BOK online foil 0.03
+Mistblade Shinobi BOK online foil 0.03
+Patron of the Moon BOK online foil 0.03
+Shimmering Glasskite BOK online foil 0.03
+Tomorrow, Azamis Familiar BOK online foil 0.03
+Stream of Consciousness BOK online foil 0.03
+Loam Dweller BOK online foil 0.03
+Traproot Kami BOK online foil 0.03
+Genju of the Cedars BOK online foil 0.03
+Akki Raider BOK online foil 0.03
+Ronin Cliffrider BOK online foil 0.03
+Kumanos Blessing BOK online foil 0.03
+Genju of the Spires BOK online foil 0.03
+Torrent of Stone BOK online foil 0.03
+Sowing Salt BOK online foil 0.03
+Empty-Shrine Kannushi BOK online foil 0.02
+Kami of Tattered Shoji BOK online foil 0.02
+Kami of the Honored Dead BOK online foil 0.02
+Moonlit Strider BOK online foil 0.02
+Kitsune Palliator BOK online foil 0.02
+Crawling Filth BOK online foil 0.02
+Oyobi, Who Split the Heavens BOK online foil 0.02
+Kyoki, Sanitys Eclipse BOK online foil 0.02
+Split-Tail Miko BOK online foil 0.02
+Takenos Cavalry BOK online foil 0.02
+Pus Kami BOK online foil 0.02
+Scourge of Numai BOK online foil 0.02
+Heart of Light BOK online foil 0.02
+Ward of Piety BOK online foil 0.02
+Skullmane Baku BOK online foil 0.02
+Takenuma Bleeder BOK online foil 0.02
+Terashis Verdict BOK online foil 0.02
+Mark of the Oni BOK online foil 0.02
+Terashis Grasp BOK online foil 0.02
+Blinding Powder BOK online foil 0.02
+Ornate Kanzashi BOK online foil 0.02
+Three Tragedies BOK online foil 0.02
+Callow Jushi BOK online foil 0.02
+Shuriken BOK online foil 0.02
+Chisei, Heart of Oceans BOK online foil 0.02
+Floodbringer BOK online foil 0.02
+Quillmane Baku BOK online foil 0.02
+Soratami Mindsweeper BOK online foil 0.02
+Walker of Secret Ways BOK online foil 0.02
+Phantom Wings BOK online foil 0.02
+Genju of the Falls BOK online foil 0.02
+Minamos Meddling BOK online foil 0.02
+Quash BOK online foil 0.02
+Toils of Night and Day BOK online foil 0.02
+Gnarled Mass BOK online foil 0.02
+Harbinger of Spring BOK online foil 0.02
+Lifespinner BOK online foil 0.02
+Scaled Hulk BOK online foil 0.02
+Roar of Jukai BOK online foil 0.02
+Unchecked Growth BOK online foil 0.02
+Enshrined Memories BOK online foil 0.02
+Sosukes Summons BOK online foil 0.02
+Splinter BOK online foil 0.02
+Akki Blizzard-Herder BOK online foil 0.02
+Ashen Monstrosity BOK online foil 0.02
+Blademane Baku BOK online foil 0.02
+Cunning Bandit BOK online foil 0.02
+Frost Ogre BOK online foil 0.02
+Aura Barbs BOK online foil 0.02
+First Volley BOK online foil 0.02
+Ire of Kaminari BOK online foil 0.02
+Overblaze BOK online foil 0.02
+Crack the Earth BOK online foil 0.02
+Nezumi Shadow-Watcher BOK online foil 0.01
+Ronin Warclub BOK online foil 0.01
+Goryos Vengeance BOK paper nonfoil 46.88
+Umezawas Jitte BOK paper nonfoil 22.97
+Kira, Great Glass-Spinner BOK paper nonfoil 17.24
+Mirror Gallery BOK paper nonfoil 10.01
+Disrupting Shoal BOK paper nonfoil 9.38
+Nourishing Shoal BOK paper nonfoil 7.53
+Hokori, Dust Drinker BOK paper nonfoil 6.35
+Threads of Disloyalty BOK paper nonfoil 6.22
+Tendo Ice Bridge BOK paper nonfoil 5.34
+Patron of the Orochi BOK paper nonfoil 5.23
+Ink-Eyes, Servant of Oni BOK paper nonfoil 3.97
+Final Judgment BOK paper nonfoil 3.8
+That Which Was Taken BOK paper nonfoil 3.48
+Shining Shoal BOK paper nonfoil 3.32
+In the Web of War BOK paper nonfoil 3.0
+Sakiko, Mother of Summer BOK paper nonfoil 2.81
+Shirei, Shizos Caretaker BOK paper nonfoil 2.79
+Genju of the Realm BOK paper nonfoil 2.61
+Toshiro Umezawa BOK paper nonfoil 2.28
+Orb of Dreams BOK paper nonfoil 2.01
+Flames of the Blood Hand BOK paper nonfoil 1.8
+Fumiko the Lowblood BOK paper nonfoil 1.76
+Sickening Shoal BOK paper nonfoil 1.74
+Shizuko, Caller of Autumn BOK paper nonfoil 1.74
+Opal-Eye, Kondas Yojimbo BOK paper nonfoil 1.51
+Blazing Shoal BOK paper nonfoil 1.49
+Throat Slitter BOK paper nonfoil 1.25
+Sosukes Summons BOK paper nonfoil 1.23
+Neko-Te BOK paper nonfoil 1.1
+Higure, the Still Wind BOK paper nonfoil 1.06
+Patron of the Moon BOK paper nonfoil 1.05
+Tallowisp BOK paper nonfoil 1.04
+Kentaro, the Smiling Cat BOK paper nonfoil 0.94
+Day of Destiny BOK paper nonfoil 0.9
+Sowing Salt BOK paper nonfoil 0.88
+Lifegift BOK paper nonfoil 0.83
+Yomiji, Who Bars the Way BOK paper nonfoil 0.83
+Isao, Enlightened Bushi BOK paper nonfoil 0.81
+Ninja of the Deep Hours BOK paper nonfoil 0.8
+Heartless Hidetsugu BOK paper nonfoil 0.77
+Tomorrow, Azamis Familiar BOK paper nonfoil 0.68
+Patron of the Kitsune BOK paper nonfoil 0.58
+Heros Demise BOK paper nonfoil 0.56
+Oyobi, Who Split the Heavens BOK paper nonfoil 0.5
+Enshrined Memories BOK paper nonfoil 0.47
+Indebted Samurai BOK paper nonfoil 0.44
+Iwamori of the Open Fist BOK paper nonfoil 0.44
+Sway of the Stars BOK paper nonfoil 0.44
+Patron of the Akki BOK paper nonfoil 0.42
+Splinter BOK paper nonfoil 0.42
+Kami of False Hope BOK paper nonfoil 0.4
+Walker of Secret Ways BOK paper nonfoil 0.39
+Kyoki, Sanitys Eclipse BOK paper nonfoil 0.39
+Ornate Kanzashi BOK paper nonfoil 0.37
+Mannichi, the Fevered Dream BOK paper nonfoil 0.37
+Twist Allegiance BOK paper nonfoil 0.37
+Shuko BOK paper nonfoil 0.35
+Chisei, Heart of Oceans BOK paper nonfoil 0.35
+Patron of the Nezumi BOK paper nonfoil 0.35
+Baku Altar BOK paper nonfoil 0.35
+Ishi-Ishi, Akki Crackshot BOK paper nonfoil 0.35
+Reduce to Dreams BOK paper nonfoil 0.35
+Genju of the Spires BOK paper nonfoil 0.34
+Clash of Realities BOK paper nonfoil 0.34
+Gods Eye, Gate to the Reikai BOK paper nonfoil 0.33
+Slumbering Tora BOK paper nonfoil 0.33
+Kodama of the Center Tree BOK paper nonfoil 0.33
+Eradicate BOK paper nonfoil 0.32
+Shuriken BOK paper nonfoil 0.32
+Yukora, the Prisoner BOK paper nonfoil 0.32
+Ronin Warclub BOK paper nonfoil 0.31
+Quash BOK paper nonfoil 0.27
+Okiba-Gang Shinobi BOK paper nonfoil 0.26
+Genju of the Fields BOK paper nonfoil 0.25
+Kaijin of the Vanishing Touch BOK paper nonfoil 0.25
+Mark of the Oni BOK paper nonfoil 0.25
+Ronin Cliffrider BOK paper nonfoil 0.25
+Blinding Powder BOK paper nonfoil 0.24
+Genju of the Cedars BOK paper nonfoil 0.24
+Lifespinner BOK paper nonfoil 0.24
+Mark of Sakiko BOK paper nonfoil 0.24
+Ogre Marauder BOK paper nonfoil 0.24
+Minamo Sightbender BOK paper nonfoil 0.24
+Overblaze BOK paper nonfoil 0.24
+Traproot Kami BOK paper nonfoil 0.24
+Aura Barbs BOK paper nonfoil 0.23
+Genju of the Falls BOK paper nonfoil 0.23
+Loam Dweller BOK paper nonfoil 0.23
+Mistblade Shinobi BOK paper nonfoil 0.23
+Stream of Consciousness BOK paper nonfoil 0.23
+Ward of Piety BOK paper nonfoil 0.23
+Genju of the Fens BOK paper nonfoil 0.22
+Goblin Cohort BOK paper nonfoil 0.22
+Heed the Mists BOK paper nonfoil 0.22
+Kami of the Honored Dead BOK paper nonfoil 0.22
+Pus Kami BOK paper nonfoil 0.22
+Scour BOK paper nonfoil 0.22
+Callow Jushi BOK paper nonfoil 0.21
+Empty-Shrine Kannushi BOK paper nonfoil 0.21
+Akki Raider BOK paper nonfoil 0.21
+Body of Jukai BOK paper nonfoil 0.21
+Forked-Branch Garami BOK paper nonfoil 0.21
+Hired Muscle BOK paper nonfoil 0.21
+Kitsune Palliator BOK paper nonfoil 0.21
+Jetting Glasskite BOK paper nonfoil 0.21
+Ogre Recluse BOK paper nonfoil 0.21
+Soratami Mindsweeper BOK paper nonfoil 0.21
+Unchecked Growth BOK paper nonfoil 0.21
+Faithful Squire BOK paper nonfoil 0.2
+Ashen Monstrosity BOK paper nonfoil 0.2
+Crack the Earth BOK paper nonfoil 0.2
+Budoka Pupil BOK paper nonfoil 0.2
+Cunning Bandit BOK paper nonfoil 0.2
+Nezumi Shadow-Watcher BOK paper nonfoil 0.2
+Scourge of Numai BOK paper nonfoil 0.2
+Three Tragedies BOK paper nonfoil 0.2
+Terashis Verdict BOK paper nonfoil 0.2
+Veil of Secrecy BOK paper nonfoil 0.19
+Matsu-Tribe Sniper BOK paper nonfoil 0.18
+Toils of Night and Day BOK paper nonfoil 0.18
+Blademane Baku BOK paper nonfoil 0.17
+Gnarled Mass BOK paper nonfoil 0.17
+Harbinger of Spring BOK paper nonfoil 0.17
+Floodbringer BOK paper nonfoil 0.17
+Sakura-Tribe Springcaller BOK paper nonfoil 0.17
+Shimmering Glasskite BOK paper nonfoil 0.17
+Skullmane Baku BOK paper nonfoil 0.17
+Terashis Grasp BOK paper nonfoil 0.17
+Skullsnatcher BOK paper nonfoil 0.17
+Akki Blizzard-Herder BOK paper nonfoil 0.16
+Blessing of Leeches BOK paper nonfoil 0.16
+Bile Urchin BOK paper nonfoil 0.16
+Child of Thorns BOK paper nonfoil 0.16
+Call for Blood BOK paper nonfoil 0.16
+First Volley BOK paper nonfoil 0.16
+Frostling BOK paper nonfoil 0.16
+Heart of Light BOK paper nonfoil 0.16
+Kami of Tattered Shoji BOK paper nonfoil 0.16
+Kumanos Blessing BOK paper nonfoil 0.16
+Hundred-Talon Strike BOK paper nonfoil 0.16
+Horobis Whisper BOK paper nonfoil 0.16
+Moonlit Strider BOK paper nonfoil 0.16
+Mending Hands BOK paper nonfoil 0.16
+Minamos Meddling BOK paper nonfoil 0.16
+Shinka Gatekeeper BOK paper nonfoil 0.16
+Petalmane Baku BOK paper nonfoil 0.16
+Phantom Wings BOK paper nonfoil 0.16
+Ribbons of the Reikai BOK paper nonfoil 0.16
+Scaled Hulk BOK paper nonfoil 0.16
+Psychic Spear BOK paper nonfoil 0.16
+Roar of Jukai BOK paper nonfoil 0.16
+Quillmane Baku BOK paper nonfoil 0.16
+Takenuma Bleeder BOK paper nonfoil 0.16
+Teardrop Kami BOK paper nonfoil 0.16
+Split-Tail Miko BOK paper nonfoil 0.16
+Silverstorm Samurai BOK paper nonfoil 0.16
+Takenos Cavalry BOK paper nonfoil 0.16
+Stir the Grave BOK paper nonfoil 0.16
+Waxmane Baku BOK paper nonfoil 0.16
+Uproot BOK paper nonfoil 0.16
+Vital Surge BOK paper nonfoil 0.16
+Torrent of Stone BOK paper nonfoil 0.16
+Crawling Filth BOK paper nonfoil 0.15
+Frost Ogre BOK paper nonfoil 0.15
+Ire of Kaminari BOK paper nonfoil 0.15
+Umezawas Jitte BOK paper foil 200.0
+Goryos Vengeance BOK paper foil 78.89
+Mirror Gallery BOK paper foil 47.6
+Kira, Great Glass-Spinner BOK paper foil 38.05
+Disrupting Shoal BOK paper foil 32.52
+Hokori, Dust Drinker BOK paper foil 24.21
+Tendo Ice Bridge BOK paper foil 23.99
+Toshiro Umezawa BOK paper foil 23.75
+Threads of Disloyalty BOK paper foil 23.7
+Nourishing Shoal BOK paper foil 20.54
+Yomiji, Who Bars the Way BOK paper foil 19.99
+Shirei, Shizos Caretaker BOK paper foil 17.93
+Final Judgment BOK paper foil 14.97
+Ink-Eyes, Servant of Oni BOK paper foil 14.34
+Patron of the Orochi BOK paper foil 14.22
+Shining Shoal BOK paper foil 13.95
+Patron of the Moon BOK paper foil 13.81
+Genju of the Realm BOK paper foil 13.12
+Orb of Dreams BOK paper foil 10.97
+Sakiko, Mother of Summer BOK paper foil 10.91
+In the Web of War BOK paper foil 10.45
+Fumiko the Lowblood BOK paper foil 9.69
+Tomorrow, Azamis Familiar BOK paper foil 8.9
+Shizuko, Caller of Autumn BOK paper foil 8.84
+Heartless Hidetsugu BOK paper foil 8.46
+Ninja of the Deep Hours BOK paper foil 8.04
+That Which Was Taken BOK paper foil 7.65
+Higure, the Still Wind BOK paper foil 7.52
+Flames of the Blood Hand BOK paper foil 6.64
+Blazing Shoal BOK paper foil 6.0
+Walker of Secret Ways BOK paper foil 5.35
+Opal-Eye, Kondas Yojimbo BOK paper foil 5.23
+Throat Slitter BOK paper foil 5.14
+Tallowisp BOK paper foil 4.44
+Oyobi, Who Split the Heavens BOK paper foil 4.44
+Sickening Shoal BOK paper foil 4.39
+Sowing Salt BOK paper foil 4.2
+Isao, Enlightened Bushi BOK paper foil 3.77
+Heros Demise BOK paper foil 3.58
+Sosukes Summons BOK paper foil 3.34
+Okiba-Gang Shinobi BOK paper foil 3.32
+Gods Eye, Gate to the Reikai BOK paper foil 2.86
+Neko-Te BOK paper foil 2.8
+Lifegift BOK paper foil 2.74
+Kentaro, the Smiling Cat BOK paper foil 2.74
+Day of Destiny BOK paper foil 2.66
+Patron of the Nezumi BOK paper foil 2.65
+Mistblade Shinobi BOK paper foil 2.64
+Iwamori of the Open Fist BOK paper foil 2.53
+Kami of False Hope BOK paper foil 2.5
+Kyoki, Sanitys Eclipse BOK paper foil 2.25
+Crack the Earth BOK paper foil 2.22
+Sway of the Stars BOK paper foil 2.19
+Patron of the Kitsune BOK paper foil 2.17
+Yukora, the Prisoner BOK paper foil 2.16
+Patron of the Akki BOK paper foil 2.03
+Ishi-Ishi, Akki Crackshot BOK paper foil 1.73
+Shuko BOK paper foil 1.68
+Enshrined Memories BOK paper foil 1.63
+Kodama of the Center Tree BOK paper foil 1.57
+Mannichi, the Fevered Dream BOK paper foil 1.51
+Chisei, Heart of Oceans BOK paper foil 1.41
+Genju of the Spires BOK paper foil 1.38
+Ronin Warclub BOK paper foil 1.35
+Ornate Kanzashi BOK paper foil 1.35
+Twist Allegiance BOK paper foil 1.35
+Indebted Samurai BOK paper foil 1.26
+Baku Altar BOK paper foil 1.26
+Aura Barbs BOK paper foil 1.21
+Eradicate BOK paper foil 1.14
+Reduce to Dreams BOK paper foil 1.14
+Clash of Realities BOK paper foil 1.13
+Genju of the Cedars BOK paper foil 1.08
+Traproot Kami BOK paper foil 1.08
+Overblaze BOK paper foil 1.05
+Splinter BOK paper foil 1.05
+Goblin Cohort BOK paper foil 1.04
+Genju of the Fields BOK paper foil 0.96
+Slumbering Tora BOK paper foil 0.93
+Shuriken BOK paper foil 0.89
+Kaijin of the Vanishing Touch BOK paper foil 0.79
+Mark of the Oni BOK paper foil 0.79
+Ogre Marauder BOK paper foil 0.78
+Genju of the Fens BOK paper foil 0.77
+Jetting Glasskite BOK paper foil 0.75
+Genju of the Falls BOK paper foil 0.74
+Loam Dweller BOK paper foil 0.73
+Quash BOK paper foil 0.7
+Blinding Powder BOK paper foil 0.68
+Mark of Sakiko BOK paper foil 0.68
+Veil of Secrecy BOK paper foil 0.65
+Lifespinner BOK paper foil 0.63
+Unchecked Growth BOK paper foil 0.58
+Empty-Shrine Kannushi BOK paper foil 0.54
+Forked-Branch Garami BOK paper foil 0.5
+Ronin Cliffrider BOK paper foil 0.5
+Scour BOK paper foil 0.5
+Skullsnatcher BOK paper foil 0.5
+Heed the Mists BOK paper foil 0.48
+Faithful Squire BOK paper foil 0.47
+Kami of the Honored Dead BOK paper foil 0.47
+Soratami Mindsweeper BOK paper foil 0.47
+Blessing of Leeches BOK paper foil 0.45
+Hired Muscle BOK paper foil 0.45
+Callow Jushi BOK paper foil 0.44
+Cunning Bandit BOK paper foil 0.44
+Nezumi Shadow-Watcher BOK paper foil 0.44
+Scourge of Numai BOK paper foil 0.44
+Budoka Pupil BOK paper foil 0.43
+Akki Raider BOK paper foil 0.43
+Matsu-Tribe Sniper BOK paper foil 0.43
+Stream of Consciousness BOK paper foil 0.43
+Ashen Monstrosity BOK paper foil 0.42
+Kitsune Palliator BOK paper foil 0.42
+Shimmering Glasskite BOK paper foil 0.42
+Terashis Verdict BOK paper foil 0.42
+Body of Jukai BOK paper foil 0.4
+Minamo Sightbender BOK paper foil 0.4
+Ogre Recluse BOK paper foil 0.4
+Three Tragedies BOK paper foil 0.4
+Floodbringer BOK paper foil 0.39
+Ward of Piety BOK paper foil 0.39
+Pus Kami BOK paper foil 0.38
+Sakura-Tribe Springcaller BOK paper foil 0.37
+Akki Blizzard-Herder BOK paper foil 0.36
+Horobis Whisper BOK paper foil 0.36
+Stir the Grave BOK paper foil 0.36
+Split-Tail Miko BOK paper foil 0.35
+Terashis Grasp BOK paper foil 0.35
+Ire of Kaminari BOK paper foil 0.32
+Petalmane Baku BOK paper foil 0.32
+Ribbons of the Reikai BOK paper foil 0.32
+Teardrop Kami BOK paper foil 0.32
+Bile Urchin BOK paper foil 0.31
+Frost Ogre BOK paper foil 0.31
+Call for Blood BOK paper foil 0.3
+Frostling BOK paper foil 0.3
+Hundred-Talon Strike BOK paper foil 0.3
+Psychic Spear BOK paper foil 0.3
+Torrent of Stone BOK paper foil 0.3
+Kami of Tattered Shoji BOK paper foil 0.29
+Mending Hands BOK paper foil 0.29
+Shinka Gatekeeper BOK paper foil 0.29
+Roar of Jukai BOK paper foil 0.29
+Takenos Cavalry BOK paper foil 0.29
+Uproot BOK paper foil 0.29
+Crawling Filth BOK paper foil 0.28
+First Volley BOK paper foil 0.28
+Heart of Light BOK paper foil 0.28
+Moonlit Strider BOK paper foil 0.28
+Minamos Meddling BOK paper foil 0.28
+Phantom Wings BOK paper foil 0.28
+Scaled Hulk BOK paper foil 0.28
+Takenuma Bleeder BOK paper foil 0.28
+Waxmane Baku BOK paper foil 0.28
+Child of Thorns BOK paper foil 0.27
+Silverstorm Samurai BOK paper foil 0.27
+Vital Surge BOK paper foil 0.27
+Blademane Baku BOK paper foil 0.26
+Gnarled Mass BOK paper foil 0.26
+Quillmane Baku BOK paper foil 0.26
+Toils of Night and Day BOK paper foil 0.26
+Harbinger of Spring BOK paper foil 0.25
+Kumanos Blessing BOK paper foil 0.25
+Skullmane Baku BOK paper foil 0.25
+Wasteland EXP online nonfoil 56.39
+Horizon Canopy EXP online nonfoil 46.9
+Scalding Tarn EXP online nonfoil 29.8
+Verdant Catacombs EXP online nonfoil 15.64
+Polluted Delta EXP online nonfoil 15.4
+Misty Rainforest EXP online nonfoil 14.41
+Arid Mesa EXP online nonfoil 12.77
+Flooded Strand EXP online nonfoil 12.58
+Twilight Mire EXP online nonfoil 12.23
+Wooded Foothills EXP online nonfoil 11.41
+Bloodstained Mire EXP online nonfoil 11.34
+Rugged Prairie EXP online nonfoil 10.17
+Marsh Flats EXP online nonfoil 9.5
+Windswept Heath EXP online nonfoil 9.02
+Fetid Heath EXP online nonfoil 8.59
+Stomping Ground EXP online nonfoil 8.54
+Cascade Bluffs EXP online nonfoil 7.57
+Steam Vents EXP online nonfoil 7.13
+Dust Bowl EXP online nonfoil 6.54
+Ancient Tomb EXP online nonfoil 6.5
+Mana Confluence EXP online nonfoil 6.26
+Hallowed Fountain EXP online nonfoil 6.24
+Overgrown Tomb EXP online nonfoil 6.13
+Forbidden Orchard EXP online nonfoil 5.9
+Fire-Lit Thicket EXP online nonfoil 5.88
+Breeding Pool EXP online nonfoil 5.65
+Blood Crypt EXP online nonfoil 5.47
+Mystic Gate EXP online nonfoil 5.43
+Sacred Foundry EXP online nonfoil 5.26
+Flooded Grove EXP online nonfoil 5.15
+Watery Grave EXP online nonfoil 5.14
+Prairie Stream EXP online nonfoil 4.72
+Temple Garden EXP online nonfoil 4.71
+Godless Shrine EXP online nonfoil 4.7
+Tectonic Edge EXP online nonfoil 4.27
+Sunken Ruins EXP online nonfoil 4.25
+Kor Haven EXP online nonfoil 4.14
+Smoldering Marsh EXP online nonfoil 4.05
+Strip Mine EXP online nonfoil 3.94
+Cinder Glade EXP online nonfoil 3.76
+Canopy Vista EXP online nonfoil 3.71
+Graven Cairns EXP online nonfoil 3.63
+Sunken Hollow EXP online nonfoil 3.09
+Eye of Ugin EXP online nonfoil 3.07
+Wooded Bastion EXP online nonfoil 2.76
+Wasteland EXP online foil 56.39
+Horizon Canopy EXP online foil 46.9
+Scalding Tarn EXP online foil 29.8
+Verdant Catacombs EXP online foil 15.64
+Polluted Delta EXP online foil 15.4
+Misty Rainforest EXP online foil 14.41
+Arid Mesa EXP online foil 12.77
+Flooded Strand EXP online foil 12.58
+Twilight Mire EXP online foil 12.23
+Wooded Foothills EXP online foil 11.41
+Bloodstained Mire EXP online foil 11.34
+Rugged Prairie EXP online foil 10.17
+Marsh Flats EXP online foil 9.5
+Windswept Heath EXP online foil 9.02
+Fetid Heath EXP online foil 8.59
+Stomping Ground EXP online foil 8.54
+Cascade Bluffs EXP online foil 7.57
+Steam Vents EXP online foil 7.13
+Dust Bowl EXP online foil 6.54
+Ancient Tomb EXP online foil 6.5
+Mana Confluence EXP online foil 6.26
+Hallowed Fountain EXP online foil 6.24
+Overgrown Tomb EXP online foil 6.13
+Forbidden Orchard EXP online foil 5.9
+Fire-Lit Thicket EXP online foil 5.88
+Breeding Pool EXP online foil 5.65
+Blood Crypt EXP online foil 5.47
+Mystic Gate EXP online foil 5.43
+Sacred Foundry EXP online foil 5.26
+Flooded Grove EXP online foil 5.15
+Watery Grave EXP online foil 5.14
+Prairie Stream EXP online foil 4.72
+Temple Garden EXP online foil 4.71
+Godless Shrine EXP online foil 4.7
+Tectonic Edge EXP online foil 4.27
+Sunken Ruins EXP online foil 4.25
+Kor Haven EXP online foil 4.14
+Smoldering Marsh EXP online foil 4.05
+Strip Mine EXP online foil 3.94
+Cinder Glade EXP online foil 3.76
+Canopy Vista EXP online foil 3.71
+Graven Cairns EXP online foil 3.63
+Sunken Hollow EXP online foil 3.09
+Eye of Ugin EXP online foil 3.07
+Wooded Bastion EXP online foil 2.76
+Scalding Tarn EXP paper nonfoil 194.01
+Polluted Delta EXP paper nonfoil 185.0
+Misty Rainforest EXP paper nonfoil 167.02
+Horizon Canopy EXP paper nonfoil 162.99
+Verdant Catacombs EXP paper nonfoil 159.99
+Ancient Tomb EXP paper nonfoil 157.49
+Flooded Strand EXP paper nonfoil 146.79
+Wasteland EXP paper nonfoil 103.69
+Arid Mesa EXP paper nonfoil 99.99
+Windswept Heath EXP paper nonfoil 99.74
+Bloodstained Mire EXP paper nonfoil 96.46
+Marsh Flats EXP paper nonfoil 94.0
+Wooded Foothills EXP paper nonfoil 90.36
+Steam Vents EXP paper nonfoil 76.22
+Godless Shrine EXP paper nonfoil 74.71
+Overgrown Tomb EXP paper nonfoil 69.95
+Stomping Ground EXP paper nonfoil 64.7
+Breeding Pool EXP paper nonfoil 63.8
+Watery Grave EXP paper nonfoil 63.56
+Strip Mine EXP paper nonfoil 63.15
+Hallowed Fountain EXP paper nonfoil 59.95
+Temple Garden EXP paper nonfoil 55.0
+Sacred Foundry EXP paper nonfoil 54.07
+Twilight Mire EXP paper nonfoil 52.43
+Blood Crypt EXP paper nonfoil 50.0
+Eye of Ugin EXP paper nonfoil 48.34
+Mana Confluence EXP paper nonfoil 47.05
+Flooded Grove EXP paper nonfoil 44.89
+Mystic Gate EXP paper nonfoil 42.0
+Sunken Ruins EXP paper nonfoil 40.0
+Fetid Heath EXP paper nonfoil 39.77
+Cascade Bluffs EXP paper nonfoil 39.59
+Rugged Prairie EXP paper nonfoil 34.99
+Fire-Lit Thicket EXP paper nonfoil 34.77
+Wooded Bastion EXP paper nonfoil 33.99
+Forbidden Orchard EXP paper nonfoil 32.23
+Graven Cairns EXP paper nonfoil 29.93
+Dust Bowl EXP paper nonfoil 29.6
+Tectonic Edge EXP paper nonfoil 27.95
+Kor Haven EXP paper nonfoil 27.54
+Cinder Glade EXP paper nonfoil 26.89
+Prairie Stream EXP paper nonfoil 26.59
+Canopy Vista EXP paper nonfoil 23.22
+Smoldering Marsh EXP paper nonfoil 22.76
+Sunken Hollow EXP paper nonfoil 22.75
+Scalding Tarn EXP paper foil 194.01
+Polluted Delta EXP paper foil 185.0
+Misty Rainforest EXP paper foil 167.02
+Horizon Canopy EXP paper foil 162.99
+Verdant Catacombs EXP paper foil 159.99
+Ancient Tomb EXP paper foil 157.49
+Flooded Strand EXP paper foil 146.79
+Wasteland EXP paper foil 103.69
+Arid Mesa EXP paper foil 99.99
+Windswept Heath EXP paper foil 99.74
+Bloodstained Mire EXP paper foil 96.46
+Marsh Flats EXP paper foil 94.0
+Wooded Foothills EXP paper foil 90.36
+Steam Vents EXP paper foil 76.22
+Godless Shrine EXP paper foil 74.71
+Overgrown Tomb EXP paper foil 69.95
+Stomping Ground EXP paper foil 64.7
+Breeding Pool EXP paper foil 63.8
+Watery Grave EXP paper foil 63.56
+Strip Mine EXP paper foil 63.15
+Hallowed Fountain EXP paper foil 59.95
+Temple Garden EXP paper foil 55.0
+Sacred Foundry EXP paper foil 54.07
+Twilight Mire EXP paper foil 52.43
+Blood Crypt EXP paper foil 50.0
+Eye of Ugin EXP paper foil 48.34
+Mana Confluence EXP paper foil 47.05
+Flooded Grove EXP paper foil 44.89
+Mystic Gate EXP paper foil 42.0
+Sunken Ruins EXP paper foil 40.0
+Fetid Heath EXP paper foil 39.77
+Cascade Bluffs EXP paper foil 39.59
+Rugged Prairie EXP paper foil 34.99
+Fire-Lit Thicket EXP paper foil 34.77
+Wooded Bastion EXP paper foil 33.99
+Forbidden Orchard EXP paper foil 32.23
+Graven Cairns EXP paper foil 29.93
+Dust Bowl EXP paper foil 29.6
+Tectonic Edge EXP paper foil 27.95
+Kor Haven EXP paper foil 27.54
+Cinder Glade EXP paper foil 26.89
+Prairie Stream EXP paper foil 26.59
+Canopy Vista EXP paper foil 23.22
+Smoldering Marsh EXP paper foil 22.76
+Sunken Hollow EXP paper foil 22.75
+Grafdiggers Cage DKA online nonfoil 7.39
+Sorin, Lord of Innistrad DKA online nonfoil 3.78
+Mikaeus, the Unhallowed DKA online nonfoil 3.04
+Huntmaster of the Fells DKA online nonfoil 2.96
+Thalia, Guardian of Thraben DKA online nonfoil 2.21
+Geralfs Messenger DKA online nonfoil 1.9
+Gravecrawler DKA online nonfoil 1.28
+Havengul Lich DKA online nonfoil 0.98
+Drogskol Reaver DKA online nonfoil 0.7
+Vorapede DKA online nonfoil 0.45
+Thought Scour DKA online nonfoil 0.38
+Lingering Souls DKA online nonfoil 0.35
+Elbrus, the Binding Blade DKA online nonfoil 0.24
+Vault of the Archangel DKA online nonfoil 0.16
+Beguiler of Wills DKA online nonfoil 0.16
+Predator Ooze DKA online nonfoil 0.16
+Skirsdag Flayer DKA online nonfoil 0.15
+Fires of Undeath DKA online nonfoil 0.11
+Falkenrath Aristocrat DKA online nonfoil 0.11
+Faithless Looting DKA online nonfoil 0.06
+Silverclaw Griffin DKA online nonfoil 0.05
+Torch Fiend DKA online nonfoil 0.05
+Chalice of Life DKA online nonfoil 0.04
+Gather the Townsfolk DKA online nonfoil 0.04
+Drogskol Captain DKA online nonfoil 0.04
+Haunted Fengraf DKA online nonfoil 0.04
+Hunger of the Howlpack DKA online nonfoil 0.04
+Russet Wolves DKA online nonfoil 0.04
+Scorch the Fields DKA online nonfoil 0.04
+Loyal Cathar DKA online nonfoil 0.04
+Stormbound Geist DKA online nonfoil 0.04
+Young Wolf DKA online nonfoil 0.04
+Tragic Slip DKA online nonfoil 0.04
+Diregraf Captain DKA online nonfoil 0.04
+Archangels Light DKA online nonfoil 0.04
+Ray of Revelation DKA online nonfoil 0.04
+Strangleroot Geist DKA online nonfoil 0.04
+Warden of the Wall DKA online nonfoil 0.04
+Undying Evil DKA online nonfoil 0.04
+Talons of Falkenrath DKA online nonfoil 0.04
+Wrack with Madness DKA online nonfoil 0.04
+Moonveil Dragon DKA online nonfoil 0.04
+Artful Dodge DKA online nonfoil 0.04
+Midnight Guard DKA online nonfoil 0.03
+Hollowhenge Beast DKA online nonfoil 0.03
+Stromkirk Captain DKA online nonfoil 0.03
+Increasing Ambition DKA online nonfoil 0.03
+Curse of Exhaustion DKA online nonfoil 0.03
+Nearheath Stalker DKA online nonfoil 0.03
+Evolving Wilds DKA online nonfoil 0.03
+Village Survivors DKA online nonfoil 0.03
+Somberwald Dryad DKA online nonfoil 0.03
+Briarpack Alpha DKA online nonfoil 0.02
+Burden of Guilt DKA online nonfoil 0.02
+Skillful Lunge DKA online nonfoil 0.02
+Increasing Vengeance DKA online nonfoil 0.02
+Niblis of the Mist DKA online nonfoil 0.02
+Gavony Ironwright DKA online nonfoil 0.02
+Fling DKA online nonfoil 0.02
+Divination DKA online nonfoil 0.02
+Heavy Mattock DKA online nonfoil 0.02
+Curse of Misfortunes DKA online nonfoil 0.02
+Sightless Ghoul DKA online nonfoil 0.02
+Wolfbitten Captive DKA online nonfoil 0.02
+Heckling Fiends DKA online nonfoil 0.02
+Blood Feud DKA online nonfoil 0.02
+Thraben Heretic DKA online nonfoil 0.02
+Farbog Boneflinger DKA online nonfoil 0.02
+Deaths Caress DKA online nonfoil 0.02
+Flayer of the Hatebound DKA online nonfoil 0.02
+Helvault DKA online nonfoil 0.02
+Thraben Doomsayer DKA online nonfoil 0.02
+Increasing Confusion DKA online nonfoil 0.02
+Wolfhunters Quiver DKA online nonfoil 0.02
+Lambholt Elder DKA online nonfoil 0.02
+Nephalia Seakite DKA online nonfoil 0.02
+Immerwolf DKA online nonfoil 0.02
+Scorned Villager DKA online nonfoil 0.02
+Zombie Apocalypse DKA online nonfoil 0.02
+Burning Oil DKA online nonfoil 0.01
+Break of Day DKA online nonfoil 0.01
+Niblis of the Breath DKA online nonfoil 0.01
+Niblis of the Urn DKA online nonfoil 0.01
+Forge Devil DKA online nonfoil 0.01
+Fiend of the Shadows DKA online nonfoil 0.01
+Feed the Pack DKA online nonfoil 0.01
+Faiths Shield DKA online nonfoil 0.01
+Gravepurge DKA online nonfoil 0.01
+Havengul Runebinder DKA online nonfoil 0.01
+Saving Grasp DKA online nonfoil 0.01
+Grim Backwoods DKA online nonfoil 0.01
+Gravetiller Wurm DKA online nonfoil 0.01
+Geralfs Mindcrusher DKA online nonfoil 0.01
+Curse of Thirst DKA online nonfoil 0.01
+Executioners Hood DKA online nonfoil 0.01
+Shattered Perception DKA online nonfoil 0.01
+Highborn Ghoul DKA online nonfoil 0.01
+Relentless Skaabs DKA online nonfoil 0.01
+Harrowing Journey DKA online nonfoil 0.01
+Increasing Savagery DKA online nonfoil 0.01
+Sudden Disappearance DKA online nonfoil 0.01
+Sanctuary Cat DKA online nonfoil 0.01
+Headless Skaab DKA online nonfoil 0.01
+Increasing Devotion DKA online nonfoil 0.01
+Gruesome Discovery DKA online nonfoil 0.01
+Griptide DKA online nonfoil 0.01
+Ulvenwald Bear DKA online nonfoil 0.01
+Tower Geist DKA online nonfoil 0.01
+Elgaud Inquisitor DKA online nonfoil 0.01
+Hollowhenge Spirit DKA online nonfoil 0.01
+Curse of Echoes DKA online nonfoil 0.01
+Dawntreader Elk DKA online nonfoil 0.01
+Afflicted Deserter DKA online nonfoil 0.01
+Alpha Brawl DKA online nonfoil 0.01
+Ravenous Demon DKA online nonfoil 0.01
+Altar of the Lost DKA online nonfoil 0.01
+Deadly Allure DKA online nonfoil 0.01
+Favor of the Woods DKA online nonfoil 0.01
+Deranged Outcast DKA online nonfoil 0.01
+Ghoultree DKA online nonfoil 0.01
+Trackers Instincts DKA online nonfoil 0.01
+Vengeful Vampire DKA online nonfoil 0.01
+Hellrider DKA online nonfoil 0.01
+Dungeon Geists DKA online nonfoil 0.01
+Hinterland Hermit DKA online nonfoil 0.01
+Falkenrath Torturer DKA online nonfoil 0.01
+Wakedancer DKA online nonfoil 0.01
+Soul Seizer DKA online nonfoil 0.01
+Grim Flowering DKA online nonfoil 0.01
+Spiteful Shadows DKA online nonfoil 0.01
+Kessig Recluse DKA online nonfoil 0.01
+Jar of Eyeballs DKA online nonfoil 0.01
+Pyreheart Wolf DKA online nonfoil 0.01
+Wild Hunger DKA online nonfoil 0.01
+Seance DKA online nonfoil 0.01
+Secrets of the Dead DKA online nonfoil 0.01
+Shriekgeist DKA online nonfoil 0.01
+Screeching Skaab DKA online nonfoil 0.01
+Mondronen Shaman DKA online nonfoil 0.01
+Black Cat DKA online nonfoil 0.01
+Markov Warlord DKA online nonfoil 0.01
+Markov Blademaster DKA online nonfoil 0.01
+Mystic Retrieval DKA online nonfoil 0.01
+Curse of Bloodletting DKA online nonfoil 0.01
+Erdwal Ripper DKA online nonfoil 0.01
+Chosen of Markov DKA online nonfoil 0.01
+Requiem Angel DKA online nonfoil 0.01
+Chill of Foreboding DKA online nonfoil 0.01
+Bone to Ash DKA online nonfoil 0.01
+Crushing Vines DKA online nonfoil 0.01
+Lost in the Woods DKA online nonfoil 0.01
+Counterlash DKA online nonfoil 0.01
+Clinging Mists DKA online nonfoil 0.01
+Bar the Door DKA online nonfoil 0.01
+Reap the Seagraf DKA online nonfoil 0.01
+Avacyns Collar DKA online nonfoil 0.01
+Call to the Kindred DKA online nonfoil 0.01
+Chant of the Skifsang DKA online nonfoil 0.01
+Falkenrath Aristocrat DKA online foil 12.81
+Mikaeus, the Unhallowed DKA online foil 10.43
+Grafdiggers Cage DKA online foil 9.04
+Sorin, Lord of Innistrad DKA online foil 7.96
+Vorapede DKA online foil 7.3
+Drogskol Reaver DKA online foil 5.71
+Beguiler of Wills DKA online foil 5.34
+Huntmaster of the Fells DKA online foil 4.56
+Helvault DKA online foil 4.55
+Geralfs Messenger DKA online foil 4.26
+Havengul Lich DKA online foil 4.23
+Moonveil Dragon DKA online foil 2.66
+Gravecrawler DKA online foil 2.58
+Thalia, Guardian of Thraben DKA online foil 2.33
+Archangels Light DKA online foil 1.97
+Lingering Souls DKA online foil 1.15
+Elbrus, the Binding Blade DKA online foil 1.0
+Vault of the Archangel DKA online foil 0.83
+Predator Ooze DKA online foil 0.77
+Thought Scour DKA online foil 0.63
+Strangleroot Geist DKA online foil 0.38
+Seance DKA online foil 0.33
+Havengul Runebinder DKA online foil 0.26
+Wolfbitten Captive DKA online foil 0.26
+Stormbound Geist DKA online foil 0.11
+Faithless Looting DKA online foil 0.08
+Evolving Wilds DKA online foil 0.06
+Increasing Devotion DKA online foil 0.06
+Deranged Outcast DKA online foil 0.06
+Ravenous Demon DKA online foil 0.06
+Gather the Townsfolk DKA online foil 0.05
+Artful Dodge DKA online foil 0.05
+Haunted Fengraf DKA online foil 0.05
+Hunger of the Howlpack DKA online foil 0.05
+Ray of Revelation DKA online foil 0.04
+Diregraf Captain DKA online foil 0.04
+Drogskol Captain DKA online foil 0.04
+Tragic Slip DKA online foil 0.04
+Soul Seizer DKA online foil 0.04
+Zombie Apocalypse DKA online foil 0.04
+Increasing Confusion DKA online foil 0.03
+Increasing Vengeance DKA online foil 0.03
+Geralfs Mindcrusher DKA online foil 0.03
+Markov Blademaster DKA online foil 0.03
+Hinterland Hermit DKA online foil 0.03
+Young Wolf DKA online foil 0.03
+Immerwolf DKA online foil 0.03
+Fiend of the Shadows DKA online foil 0.03
+Grim Backwoods DKA online foil 0.03
+Torch Fiend DKA online foil 0.03
+Undying Evil DKA online foil 0.03
+Stromkirk Captain DKA online foil 0.03
+Feed the Pack DKA online foil 0.03
+Thraben Doomsayer DKA online foil 0.03
+Alpha Brawl DKA online foil 0.03
+Increasing Ambition DKA online foil 0.03
+Mondronen Shaman DKA online foil 0.03
+Curse of Bloodletting DKA online foil 0.03
+Blood Feud DKA online foil 0.03
+Lost in the Woods DKA online foil 0.03
+Chosen of Markov DKA online foil 0.03
+Skirsdag Flayer DKA online foil 0.03
+Increasing Savagery DKA online foil 0.03
+Chalice of Life DKA online foil 0.03
+Call to the Kindred DKA online foil 0.02
+Requiem Angel DKA online foil 0.02
+Niblis of the Breath DKA online foil 0.02
+Nephalia Seakite DKA online foil 0.02
+Gavony Ironwright DKA online foil 0.02
+Flayer of the Hatebound DKA online foil 0.02
+Favor of the Woods DKA online foil 0.02
+Farbog Boneflinger DKA online foil 0.02
+Faiths Shield DKA online foil 0.02
+Dungeon Geists DKA online foil 0.02
+Markov Warlord DKA online foil 0.02
+Loyal Cathar DKA online foil 0.02
+Heavy Mattock DKA online foil 0.02
+Gravepurge DKA online foil 0.02
+Curse of Thirst DKA online foil 0.02
+Hollowhenge Beast DKA online foil 0.02
+Relentless Skaabs DKA online foil 0.02
+Gruesome Discovery DKA online foil 0.02
+Vengeful Vampire DKA online foil 0.02
+Executioners Hood DKA online foil 0.02
+Fires of Undeath DKA online foil 0.02
+Wrack with Madness DKA online foil 0.02
+Thraben Heretic DKA online foil 0.02
+Grim Flowering DKA online foil 0.02
+Griptide DKA online foil 0.02
+Ghoultree DKA online foil 0.02
+Heckling Fiends DKA online foil 0.02
+Hellrider DKA online foil 0.02
+Erdwal Ripper DKA online foil 0.02
+Warden of the Wall DKA online foil 0.02
+Lambholt Elder DKA online foil 0.02
+Silverclaw Griffin DKA online foil 0.02
+Tower Geist DKA online foil 0.02
+Elgaud Inquisitor DKA online foil 0.02
+Curse of Exhaustion DKA online foil 0.02
+Curse of Echoes DKA online foil 0.02
+Curse of Misfortunes DKA online foil 0.02
+Afflicted Deserter DKA online foil 0.02
+Altar of the Lost DKA online foil 0.02
+Sudden Disappearance DKA online foil 0.02
+Deaths Caress DKA online foil 0.02
+Highborn Ghoul DKA online foil 0.02
+Trackers Instincts DKA online foil 0.02
+Talons of Falkenrath DKA online foil 0.02
+Divination DKA online foil 0.02
+Fling DKA online foil 0.02
+Russet Wolves DKA online foil 0.02
+Kessig Recluse DKA online foil 0.02
+Wolfhunters Quiver DKA online foil 0.02
+Niblis of the Mist DKA online foil 0.02
+Hollowhenge Spirit DKA online foil 0.02
+Mystic Retrieval DKA online foil 0.02
+Wild Hunger DKA online foil 0.02
+Skillful Lunge DKA online foil 0.02
+Midnight Guard DKA online foil 0.02
+Crushing Vines DKA online foil 0.02
+Counterlash DKA online foil 0.02
+Niblis of the Urn DKA online foil 0.02
+Chant of the Skifsang DKA online foil 0.02
+Chill of Foreboding DKA online foil 0.02
+Somberwald Dryad DKA online foil 0.02
+Jar of Eyeballs DKA online foil 0.02
+Clinging Mists DKA online foil 0.02
+Bar the Door DKA online foil 0.02
+Sightless Ghoul DKA online foil 0.02
+Avacyns Collar DKA online foil 0.02
+Bone to Ash DKA online foil 0.02
+Briarpack Alpha DKA online foil 0.01
+Burden of Guilt DKA online foil 0.01
+Break of Day DKA online foil 0.01
+Nearheath Stalker DKA online foil 0.01
+Sanctuary Cat DKA online foil 0.01
+Forge Devil DKA online foil 0.01
+Deadly Allure DKA online foil 0.01
+Headless Skaab DKA online foil 0.01
+Spiteful Shadows DKA online foil 0.01
+Saving Grasp DKA online foil 0.01
+Shriekgeist DKA online foil 0.01
+Shattered Perception DKA online foil 0.01
+Harrowing Journey DKA online foil 0.01
+Gravetiller Wurm DKA online foil 0.01
+Scorch the Fields DKA online foil 0.01
+Wakedancer DKA online foil 0.01
+Ulvenwald Bear DKA online foil 0.01
+Dawntreader Elk DKA online foil 0.01
+Black Cat DKA online foil 0.01
+Secrets of the Dead DKA online foil 0.01
+Screeching Skaab DKA online foil 0.01
+Falkenrath Torturer DKA online foil 0.01
+Village Survivors DKA online foil 0.01
+Scorned Villager DKA online foil 0.01
+Pyreheart Wolf DKA online foil 0.01
+Reap the Seagraf DKA online foil 0.01
+Burning Oil DKA online foil 0.01
+Mikaeus, the Unhallowed DKA paper nonfoil 25.26
+Thalia, Guardian of Thraben DKA paper nonfoil 12.65
+Huntmaster of the Fells DKA paper nonfoil 9.69
+Geralfs Messenger DKA paper nonfoil 9.51
+Sorin, Lord of Innistrad DKA paper nonfoil 6.36
+Havengul Lich DKA paper nonfoil 5.13
+Grafdiggers Cage DKA paper nonfoil 4.77
+Gravecrawler DKA paper nonfoil 4.56
+Elbrus, the Binding Blade DKA paper nonfoil 4.16
+Vault of the Archangel DKA paper nonfoil 2.42
+Drogskol Reaver DKA paper nonfoil 2.11
+Predator Ooze DKA paper nonfoil 2.04
+Falkenrath Aristocrat DKA paper nonfoil 1.99
+Moonveil Dragon DKA paper nonfoil 1.86
+Zombie Apocalypse DKA paper nonfoil 1.49
+Increasing Confusion DKA paper nonfoil 1.41
+Increasing Vengeance DKA paper nonfoil 1.28
+Increasing Ambition DKA paper nonfoil 1.24
+Vorapede DKA paper nonfoil 1.19
+Thraben Doomsayer DKA paper nonfoil 1.01
+Thought Scour DKA paper nonfoil 1.0
+Beguiler of Wills DKA paper nonfoil 0.96
+Immerwolf DKA paper nonfoil 0.95
+Wolfbitten Captive DKA paper nonfoil 0.94
+Drogskol Captain DKA paper nonfoil 0.83
+Archangels Light DKA paper nonfoil 0.81
+Ghoultree DKA paper nonfoil 0.79
+Curse of Bloodletting DKA paper nonfoil 0.75
+Markov Blademaster DKA paper nonfoil 0.75
+Chalice of Life DKA paper nonfoil 0.74
+Lingering Souls DKA paper nonfoil 0.72
+Increasing Savagery DKA paper nonfoil 0.7
+Helvault DKA paper nonfoil 0.67
+Stromkirk Captain DKA paper nonfoil 0.53
+Seance DKA paper nonfoil 0.5
+Increasing Devotion DKA paper nonfoil 0.48
+Hellrider DKA paper nonfoil 0.48
+Mondronen Shaman DKA paper nonfoil 0.47
+Call to the Kindred DKA paper nonfoil 0.42
+Strangleroot Geist DKA paper nonfoil 0.4
+Faithless Looting DKA paper nonfoil 0.38
+Flayer of the Hatebound DKA paper nonfoil 0.37
+Alpha Brawl DKA paper nonfoil 0.37
+Ravenous Demon DKA paper nonfoil 0.37
+Requiem Angel DKA paper nonfoil 0.35
+Jar of Eyeballs DKA paper nonfoil 0.35
+Sudden Disappearance DKA paper nonfoil 0.35
+Feed the Pack DKA paper nonfoil 0.35
+Havengul Runebinder DKA paper nonfoil 0.35
+Deranged Outcast DKA paper nonfoil 0.34
+Geralfs Mindcrusher DKA paper nonfoil 0.34
+Diregraf Captain DKA paper nonfoil 0.33
+Curse of Echoes DKA paper nonfoil 0.33
+Grim Backwoods DKA paper nonfoil 0.33
+Dungeon Geists DKA paper nonfoil 0.32
+Curse of Misfortunes DKA paper nonfoil 0.31
+Fiend of the Shadows DKA paper nonfoil 0.3
+Counterlash DKA paper nonfoil 0.3
+Young Wolf DKA paper nonfoil 0.3
+Lost in the Woods DKA paper nonfoil 0.29
+Artful Dodge DKA paper nonfoil 0.25
+Faiths Shield DKA paper nonfoil 0.24
+Curse of Exhaustion DKA paper nonfoil 0.23
+Pyreheart Wolf DKA paper nonfoil 0.23
+Stormbound Geist DKA paper nonfoil 0.23
+Undying Evil DKA paper nonfoil 0.23
+Tragic Slip DKA paper nonfoil 0.22
+Briarpack Alpha DKA paper nonfoil 0.21
+Niblis of the Breath DKA paper nonfoil 0.21
+Niblis of the Urn DKA paper nonfoil 0.21
+Afflicted Deserter DKA paper nonfoil 0.2
+Deadly Allure DKA paper nonfoil 0.2
+Gravetiller Wurm DKA paper nonfoil 0.2
+Gavony Ironwright DKA paper nonfoil 0.2
+Hollowhenge Spirit DKA paper nonfoil 0.2
+Grim Flowering DKA paper nonfoil 0.2
+Lambholt Elder DKA paper nonfoil 0.2
+Soul Seizer DKA paper nonfoil 0.2
+Secrets of the Dead DKA paper nonfoil 0.2
+Vengeful Vampire DKA paper nonfoil 0.2
+Mystic Retrieval DKA paper nonfoil 0.19
+Shattered Perception DKA paper nonfoil 0.19
+Trackers Instincts DKA paper nonfoil 0.19
+Blood Feud DKA paper nonfoil 0.18
+Avacyns Collar DKA paper nonfoil 0.18
+Chill of Foreboding DKA paper nonfoil 0.18
+Farbog Boneflinger DKA paper nonfoil 0.18
+Ray of Revelation DKA paper nonfoil 0.18
+Wakedancer DKA paper nonfoil 0.18
+Burning Oil DKA paper nonfoil 0.17
+Altar of the Lost DKA paper nonfoil 0.17
+Curse of Thirst DKA paper nonfoil 0.17
+Dawntreader Elk DKA paper nonfoil 0.17
+Evolving Wilds DKA paper nonfoil 0.17
+Hunger of the Howlpack DKA paper nonfoil 0.17
+Harrowing Journey DKA paper nonfoil 0.17
+Heckling Fiends DKA paper nonfoil 0.17
+Markov Warlord DKA paper nonfoil 0.17
+Skirsdag Flayer DKA paper nonfoil 0.17
+Relentless Skaabs DKA paper nonfoil 0.17
+Thraben Heretic DKA paper nonfoil 0.17
+Warden of the Wall DKA paper nonfoil 0.17
+Tower Geist DKA paper nonfoil 0.17
+Village Survivors DKA paper nonfoil 0.17
+Wolfhunters Quiver DKA paper nonfoil 0.17
+Gather the Townsfolk DKA paper nonfoil 0.16
+Midnight Guard DKA paper nonfoil 0.16
+Scorned Villager DKA paper nonfoil 0.16
+Break of Day DKA paper nonfoil 0.15
+Bone to Ash DKA paper nonfoil 0.15
+Bar the Door DKA paper nonfoil 0.15
+Black Cat DKA paper nonfoil 0.15
+Burden of Guilt DKA paper nonfoil 0.15
+Chant of the Skifsang DKA paper nonfoil 0.15
+Clinging Mists DKA paper nonfoil 0.15
+Divination DKA paper nonfoil 0.15
+Deaths Caress DKA paper nonfoil 0.15
+Crushing Vines DKA paper nonfoil 0.15
+Gravepurge DKA paper nonfoil 0.15
+Forge Devil DKA paper nonfoil 0.15
+Erdwal Ripper DKA paper nonfoil 0.15
+Falkenrath Torturer DKA paper nonfoil 0.15
+Fires of Undeath DKA paper nonfoil 0.15
+Fling DKA paper nonfoil 0.15
+Highborn Ghoul DKA paper nonfoil 0.15
+Headless Skaab DKA paper nonfoil 0.15
+Heavy Mattock DKA paper nonfoil 0.15
+Haunted Fengraf DKA paper nonfoil 0.15
+Hinterland Hermit DKA paper nonfoil 0.15
+Gruesome Discovery DKA paper nonfoil 0.15
+Hollowhenge Beast DKA paper nonfoil 0.15
+Kessig Recluse DKA paper nonfoil 0.15
+Loyal Cathar DKA paper nonfoil 0.15
+Niblis of the Mist DKA paper nonfoil 0.15
+Nearheath Stalker DKA paper nonfoil 0.15
+Reap the Seagraf DKA paper nonfoil 0.15
+Somberwald Dryad DKA paper nonfoil 0.15
+Screeching Skaab DKA paper nonfoil 0.15
+Saving Grasp DKA paper nonfoil 0.15
+Spiteful Shadows DKA paper nonfoil 0.15
+Scorch the Fields DKA paper nonfoil 0.15
+Sanctuary Cat DKA paper nonfoil 0.15
+Silverclaw Griffin DKA paper nonfoil 0.15
+Skillful Lunge DKA paper nonfoil 0.15
+Torch Fiend DKA paper nonfoil 0.15
+Ulvenwald Bear DKA paper nonfoil 0.15
+Wild Hunger DKA paper nonfoil 0.15
+Talons of Falkenrath DKA paper nonfoil 0.15
+Chosen of Markov DKA paper nonfoil 0.14
+Elgaud Inquisitor DKA paper nonfoil 0.14
+Executioners Hood DKA paper nonfoil 0.14
+Favor of the Woods DKA paper nonfoil 0.14
+Griptide DKA paper nonfoil 0.14
+Nephalia Seakite DKA paper nonfoil 0.14
+Shriekgeist DKA paper nonfoil 0.14
+Russet Wolves DKA paper nonfoil 0.14
+Sightless Ghoul DKA paper nonfoil 0.14
+Wrack with Madness DKA paper nonfoil 0.14
+Mikaeus, the Unhallowed DKA paper foil 55.51
+Huntmaster of the Fells DKA paper foil 38.54
+Thalia, Guardian of Thraben DKA paper foil 32.94
+Grafdiggers Cage DKA paper foil 28.07
+Sorin, Lord of Innistrad DKA paper foil 18.02
+Geralfs Messenger DKA paper foil 17.65
+Havengul Lich DKA paper foil 15.77
+Elbrus, the Binding Blade DKA paper foil 11.47
+Thought Scour DKA paper foil 11.02
+Moonveil Dragon DKA paper foil 9.95
+Lingering Souls DKA paper foil 8.99
+Falkenrath Aristocrat DKA paper foil 8.98
+Drogskol Captain DKA paper foil 8.45
+Vault of the Archangel DKA paper foil 7.94
+Gravecrawler DKA paper foil 7.59
+Faithless Looting DKA paper foil 6.24
+Drogskol Reaver DKA paper foil 5.94
+Immerwolf DKA paper foil 4.72
+Vorapede DKA paper foil 4.26
+Beguiler of Wills DKA paper foil 4.15
+Predator Ooze DKA paper foil 4.0
+Mystic Retrieval DKA paper foil 3.99
+Increasing Vengeance DKA paper foil 3.28
+Diregraf Captain DKA paper foil 3.03
+Increasing Ambition DKA paper foil 2.97
+Zombie Apocalypse DKA paper foil 2.74
+Stromkirk Captain DKA paper foil 2.48
+Seance DKA paper foil 2.4
+Evolving Wilds DKA paper foil 2.31
+Wolfbitten Captive DKA paper foil 2.27
+Hellrider DKA paper foil 2.26
+Increasing Confusion DKA paper foil 2.22
+Archangels Light DKA paper foil 2.08
+Helvault DKA paper foil 2.06
+Strangleroot Geist DKA paper foil 1.99
+Increasing Devotion DKA paper foil 1.88
+Markov Blademaster DKA paper foil 1.82
+Chalice of Life DKA paper foil 1.79
+Young Wolf DKA paper foil 1.79
+Increasing Savagery DKA paper foil 1.77
+Tragic Slip DKA paper foil 1.68
+Thraben Doomsayer DKA paper foil 1.51
+Curse of Bloodletting DKA paper foil 1.29
+Mondronen Shaman DKA paper foil 1.25
+Grim Backwoods DKA paper foil 1.07
+Call to the Kindred DKA paper foil 1.06
+Stormbound Geist DKA paper foil 1.03
+Dungeon Geists DKA paper foil 0.99
+Ghoultree DKA paper foil 0.98
+Faiths Shield DKA paper foil 0.97
+Artful Dodge DKA paper foil 0.96
+Pyreheart Wolf DKA paper foil 0.96
+Black Cat DKA paper foil 0.95
+Undying Evil DKA paper foil 0.93
+Curse of Misfortunes DKA paper foil 0.92
+Curse of Exhaustion DKA paper foil 0.88
+Gather the Townsfolk DKA paper foil 0.86
+Feed the Pack DKA paper foil 0.86
+Geralfs Mindcrusher DKA paper foil 0.86
+Counterlash DKA paper foil 0.82
+Curse of Echoes DKA paper foil 0.81
+Flayer of the Hatebound DKA paper foil 0.8
+Alpha Brawl DKA paper foil 0.8
+Haunted Fengraf DKA paper foil 0.79
+Lost in the Woods DKA paper foil 0.77
+Sudden Disappearance DKA paper foil 0.75
+Jar of Eyeballs DKA paper foil 0.74
+Ravenous Demon DKA paper foil 0.74
+Requiem Angel DKA paper foil 0.71
+Trackers Instincts DKA paper foil 0.71
+Deadly Allure DKA paper foil 0.69
+Deranged Outcast DKA paper foil 0.68
+Fiend of the Shadows DKA paper foil 0.63
+Havengul Runebinder DKA paper foil 0.62
+Ray of Revelation DKA paper foil 0.6
+Sanctuary Cat DKA paper foil 0.6
+Afflicted Deserter DKA paper foil 0.48
+Scorned Villager DKA paper foil 0.47
+Dawntreader Elk DKA paper foil 0.45
+Secrets of the Dead DKA paper foil 0.45
+Briarpack Alpha DKA paper foil 0.39
+Fling DKA paper foil 0.39
+Lambholt Elder DKA paper foil 0.38
+Curse of Thirst DKA paper foil 0.37
+Niblis of the Urn DKA paper foil 0.37
+Midnight Guard DKA paper foil 0.37
+Burning Oil DKA paper foil 0.35
+Hunger of the Howlpack DKA paper foil 0.35
+Wakedancer DKA paper foil 0.35
+Chosen of Markov DKA paper foil 0.34
+Fires of Undeath DKA paper foil 0.34
+Skirsdag Flayer DKA paper foil 0.34
+Shattered Perception DKA paper foil 0.33
+Tower Geist DKA paper foil 0.33
+Crushing Vines DKA paper foil 0.32
+Highborn Ghoul DKA paper foil 0.32
+Altar of the Lost DKA paper foil 0.31
+Avacyns Collar DKA paper foil 0.31
+Chill of Foreboding DKA paper foil 0.31
+Divination DKA paper foil 0.31
+Farbog Boneflinger DKA paper foil 0.31
+Gavony Ironwright DKA paper foil 0.31
+Heckling Fiends DKA paper foil 0.31
+Grim Flowering DKA paper foil 0.31
+Loyal Cathar DKA paper foil 0.31
+Markov Warlord DKA paper foil 0.31
+Relentless Skaabs DKA paper foil 0.31
+Torch Fiend DKA paper foil 0.31
+Thraben Heretic DKA paper foil 0.31
+Village Survivors DKA paper foil 0.31
+Harrowing Journey DKA paper foil 0.3
+Niblis of the Breath DKA paper foil 0.3
+Soul Seizer DKA paper foil 0.3
+Vengeful Vampire DKA paper foil 0.3
+Blood Feud DKA paper foil 0.29
+Bone to Ash DKA paper foil 0.29
+Kessig Recluse DKA paper foil 0.29
+Somberwald Dryad DKA paper foil 0.29
+Saving Grasp DKA paper foil 0.29
+Wolfhunters Quiver DKA paper foil 0.29
+Forge Devil DKA paper foil 0.28
+Gravetiller Wurm DKA paper foil 0.28
+Hollowhenge Spirit DKA paper foil 0.28
+Shriekgeist DKA paper foil 0.28
+Warden of the Wall DKA paper foil 0.27
+Break of Day DKA paper foil 0.26
+Gravepurge DKA paper foil 0.26
+Executioners Hood DKA paper foil 0.26
+Erdwal Ripper DKA paper foil 0.26
+Gruesome Discovery DKA paper foil 0.26
+Spiteful Shadows DKA paper foil 0.26
+Ulvenwald Bear DKA paper foil 0.26
+Bar the Door DKA paper foil 0.25
+Elgaud Inquisitor DKA paper foil 0.25
+Chant of the Skifsang DKA paper foil 0.25
+Clinging Mists DKA paper foil 0.25
+Deaths Caress DKA paper foil 0.25
+Favor of the Woods DKA paper foil 0.25
+Griptide DKA paper foil 0.25
+Headless Skaab DKA paper foil 0.25
+Heavy Mattock DKA paper foil 0.25
+Hinterland Hermit DKA paper foil 0.25
+Niblis of the Mist DKA paper foil 0.25
+Nearheath Stalker DKA paper foil 0.25
+Russet Wolves DKA paper foil 0.25
+Reap the Seagraf DKA paper foil 0.25
+Screeching Skaab DKA paper foil 0.25
+Sightless Ghoul DKA paper foil 0.25
+Wild Hunger DKA paper foil 0.25
+Wrack with Madness DKA paper foil 0.25
+Burden of Guilt DKA paper foil 0.24
+Falkenrath Torturer DKA paper foil 0.24
+Hollowhenge Beast DKA paper foil 0.24
+Nephalia Seakite DKA paper foil 0.24
+Scorch the Fields DKA paper foil 0.24
+Silverclaw Griffin DKA paper foil 0.24
+Talons of Falkenrath DKA paper foil 0.24
+Skillful Lunge DKA paper foil 0.23
