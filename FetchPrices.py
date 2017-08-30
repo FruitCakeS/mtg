@@ -14,7 +14,7 @@ try:
 except:
     mtg_sets_count = {}
 
-sets_to_fetch = []
+sets_to_fetch = ["PZ1","PZ2"]
 for s in mtg_sets:
     if s.type in ["expansion", "core", "masters", "reprint", "from the vault", "starters", "premium deck", "duel deck", "commander", "planechase", "archenemy", "conspiracy", "masterpiece"]:
         sets_to_fetch.append(s.code)
@@ -40,7 +40,9 @@ for s in sets_to_fetch:
         expected_count = 0
         if k in mtg_sets_count.keys():
             expected_count = mtg_sets_count[k]
-        
+            if k+" exists" in mtg_sets_count.keys() and mtg_sets_count[k+" exists"] == 0:
+                continue
+
         retries = 3
         set_prices = []
         actual_count = 0
@@ -59,6 +61,11 @@ for s in sets_to_fetch:
         print k+" expected "+str(expected_count)+" cards got "+str(actual_count)+" cards"
 
         mtg_sets_count[k] = max(expected_count,actual_count)
+        if (expected_count == 0 and actual_count == 0):
+            mtg_sets_count[k+" exists"] = 0
+        else:
+            mtg_sets_count[k+" exists"] = 1
+
 
     print "done fetching set "+s
 

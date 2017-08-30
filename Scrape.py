@@ -1,3 +1,4 @@
+
 import urllib
 from HTMLParser import HTMLParser
 
@@ -32,7 +33,7 @@ class MyHTMLParser(HTMLParser):
             if self.card_name != "" and self.price != "":
                 stripped_price = self.price.strip().replace(",","")
                 fprice = float(stripped_price)
-                self.prices.append([self.card_name.strip(), fprice])
+                self.prices.append([self.card_name.strip().lower(), fprice])
             self.card_name = ""
             self.price = ""
         if tag == "td":
