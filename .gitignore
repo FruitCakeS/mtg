@@ -4,3 +4,5 @@
 *.obj
 *.json
 *.out
+client_secret*
+credentials
