@@ -3,6 +3,7 @@ from system_consts import *
 import csv
 import pprint
 
+target_sets = []
 
 def nested_idx(obj, idxes):
     intermediate = obj
@@ -20,26 +21,35 @@ AllIdentifiers = json.load(f)['data']
 f.close()
 
 print("Finished reading card identifiers....")
+
 f = open(files_path+'AllPrices.json')
 
 AllPrices = json.load(f)
 
 date = AllPrices['meta']['date']
 AllPrices=AllPrices['data']
-"""
-total = len(data)
+total = len(AllPrices)
 count = 0
-
-for uuid, card in data.items():
+prices=[]
+for uuid, card in AllPrices.items():
     if (count % 1000 == 0):
         print('parsing '+str(count)+' of '+str(total)+' prices...')
     count+=1
-    ck_buy = nested_idx(card, ['paper', 'cardkingdom', 'buylist', 'normal', date])
-    tcg_retail =  nested_idx(card, ['paper', 'tcgplayer', 'retail', 'normal', date])
-    if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.9 and ck_buy >=1:
-        print(uuid, ck_buy, tcg_retail, AllIdentifiers[uuid]['name'],AllIdentifiers[uuid]['setCode'])
-"""
+    for foil in ['normal', 'foil']:
+        ck_buy = None
+        tcg_retail = None
+        ck_retail = None
+        ck_buy = nested_idx(card, ['paper', 'cardkingdom', 'buylist', foil, date])
+        ck_retail = nested_idx(card, ['paper', 'cardkingdom', 'retail', foil, date])
+        tcg_retail =  nested_idx(card, ['paper', 'tcgplayer', 'retail', foil, date])
+        if ck_buy != None and tcg_retail != None and ck_retail >= 4.99 and ck_retail <=100:
+            prices.append((ck_retail/tcg_retail, ck_retail, tcg_retail, AllIdentifiers[uuid]['name'], AllIdentifiers[uuid]['setCode'], foil, AllIdentifiers[uuid]['number']))
 
+prices = sorted(prices, key=lambda x: (x[1]-x[2]))
+for price in prices:
+    print(price[4], price[6], price[5], price[3], price[1], price[0])
+
+"""
 f.close()
 
 print("Finished reading card prices....")
@@ -57,23 +67,12 @@ try:
             ck_buy = nested_idx(AllPrices, [uuid, 'paper', 'cardkingdom', 'buylist', foil, date])
             tcg_retail =  nested_idx(AllPrices, [uuid, 'paper', 'tcgplayer', 'retail', foil, date])
             if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.77 and ck_buy >=1:
-                prices.append({
-                    'uuid': uuid,
-                    'folder': row[1],
-                    'name': row[4],
-                    'set': row[5],
-                    'ck_buy': ck_buy,
-                    'ratio': ck_buy/tcg_retail,
-                    'tcg_retail': tcg_retail,
-                    'foil': foil,
-                    'types': AllIdentifiers[uuid]['types'] if len( AllIdentifiers[uuid]['types']) == 1 else  [AllIdentifiers[uuid]['types'][0]],
-                    'colors': AllIdentifiers[uuid]['colors'] if len( AllIdentifiers[uuid]['colors']) == 1 else ['M'],
-                })
+                prices.append([uuid, row[4], row[5], ck_buy/tcg_retail, ck_buy, tcg_retail, foil, row[1]])
 except:
-    print("!!!")
     pass
-prices = sorted(prices, key=lambda x: 1000+x['ck_buy']-x['tcg_retail'])
+prices = sorted(prices, key=lambda x: (x[-1], x[3]))
 for price in prices:
-    print(price['types'], price['colors'],price['name'], price['set'], price['ck_buy'],str(round(price['ratio']*100, 1))+'%', price['foil'])
+    print(price[-1], price[1], price[2],price[4],price[3], price[-2])"""
 
-print("Done.")
+    
+
