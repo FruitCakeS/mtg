@@ -1,3 +1,5 @@
+# Parse through collection and find the best cards to buylist to Card Kingdom
+
 import json
 from system_consts import * 
 import csv
@@ -23,21 +25,6 @@ def get_latest(prices):
 
 AllIdentifiers = read_target('AllIdentifiers')
 AllPrices = read_target('AllPrices')
-"""
-total = len(data)
-count = 0
-
-for uuid, card in data.items():
-    if (count % 1000 == 0):
-        print('parsing '+str(count)+' of '+str(total)+' prices...')
-    count+=1
-    ck_buy = nested_idx(card, ['paper', 'cardkingdom', 'buylist', 'normal', date])
-    tcg_retail =  nested_idx(card, ['paper', 'tcgplayer', 'retail', 'normal', date])
-    if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.9 and ck_buy >=1:
-        print(uuid, ck_buy, tcg_retail, AllIdentifiers[uuid]['name'],AllIdentifiers[uuid]['setCode'])
-"""
-
-
 prices = []
 try:
     with open(files_path+'collection_parsed.csv') as csv_file:
@@ -50,8 +37,7 @@ try:
             foil = row[9].lower()
 
             ck_buy = get_latest(nested_idx(AllPrices, [uuid, 'paper', 'cardkingdom', 'buylist', foil]))
-            tcg_retail =  get_latest(nested_idx(AllPrices, [uuid, 'paper', 'tcgplayer', 'retail', foil, date]))
-            print(uuid, ck_buy, tcg_retail)
+            tcg_retail =  get_latest(nested_idx(AllPrices, [uuid, 'paper', 'tcgplayer', 'retail', foil]))
             if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.77 and ck_buy >=1:
                 prices.append({
                     'uuid': uuid,

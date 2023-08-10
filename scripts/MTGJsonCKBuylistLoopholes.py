@@ -3,6 +3,7 @@ from system_consts import *
 import csv
 import pprint
 from MTGJsonFetcher import read_target
+from datetime import date
 
 target_sets = []
 
@@ -15,13 +16,14 @@ def nested_idx(obj, idxes):
             return None
     return intermediate
 
+def get_latest(prices):
+    if prices == None:
+        return None
+    return prices[max(prices.keys())]
 
 
 AllIdentifiers = read_target('AllIdentifiers')
 AllPrices = read_target('AllPrices')
-
-date = AllPrices['meta']['date']
-AllPrices=AllPrices['data']
 total = len(AllPrices)
 count = 0
 prices=[]
@@ -33,15 +35,18 @@ for uuid, card in AllPrices.items():
         ck_buy = None
         tcg_retail = None
         ck_retail = None
-        ck_buy = nested_idx(card, ['paper', 'cardkingdom', 'buylist', foil, date])
-        ck_retail = nested_idx(card, ['paper', 'cardkingdom', 'retail', foil, date])
-        tcg_retail =  nested_idx(card, ['paper', 'tcgplayer', 'retail', foil, date])
+        ck_buy = get_latest(nested_idx(card, ['paper', 'cardkingdom', 'buylist', foil]))
+        ck_retail = get_latest(nested_idx(card, ['paper', 'cardkingdom', 'retail', foil]))
+        tcg_retail =  get_latest(nested_idx(card, ['paper', 'tcgplayer', 'retail', foil]))
         if ck_buy != None and tcg_retail != None and ck_retail >= 4.99 and ck_retail <=100:
-            prices.append((ck_retail/tcg_retail, ck_retail, tcg_retail, AllIdentifiers[uuid]['name'], AllIdentifiers[uuid]['setCode'], foil, AllIdentifiers[uuid]['number']))
+            if uuid in AllIdentifiers:
+                prices.append((ck_buy/tcg_retail, ck_buy, tcg_retail, AllIdentifiers[uuid]['name'], AllIdentifiers[uuid]['setCode'], foil, AllIdentifiers[uuid]['number']))
+            else:
+                print("Card not found %s" % (uuid))
 
 prices = sorted(prices, key=lambda x: (x[1]-x[2]))
 for price in prices:
-    print(price[4], price[6], price[5], price[3], price[1], price[0])
+    print(price[4], price[6], price[5], price[3], price[1], price[2], price[0])
 
 """
 f.close()
