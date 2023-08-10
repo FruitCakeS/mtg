@@ -7,13 +7,36 @@ from datetime import date
 from os.path import exists
 import gzip
 import shutil
+import json
+from  MTGJsonSetCodeMapper import set_code_map
+import csv
+
+file_targets = ['AllPrices', 'AllIdentifiers', 'AllPrintings']
+opened_json = {}
+
 
 def get_filename(target):
 	return files_path+target+str(date.today())+'.json'
 
+def read_target(target):
+	if not target in file_targets:
+		print("file %s doesn't exist!" % (target))
+		return None
+	if target in opened_json:
+		return opened_json[target]
+	else:
+		update_file(target)
+		print("Reading %s..." % (target))
+		f = open(get_filename(target))
+		json_result = json.load(f)['data']
+		f.close()
+		print("Finished reading %s..." % (target))
+		opened_json[target] = json_result
+		return json_result
+
 
 def update_files():
-	for target in ['AllPrices', 'AllIdentifiers', 'AllPrintings']:
+	for target in file_targets:
 		update_file(target)
 
 
@@ -73,4 +96,4 @@ def update_file(target):
 		        shutil.copyfileobj(f_in, f_out)
 		print("Completed unzipping %s" % (unzip_filename))
 
-update_files()
+#update_files()

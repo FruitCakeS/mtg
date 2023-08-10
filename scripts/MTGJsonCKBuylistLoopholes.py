@@ -2,6 +2,7 @@ import json
 from system_consts import * 
 import csv
 import pprint
+from MTGJsonFetcher import read_target
 
 target_sets = []
 
@@ -16,15 +17,8 @@ def nested_idx(obj, idxes):
 
 
 
-f = open(files_path+'AllIdentifiers.json')
-AllIdentifiers = json.load(f)['data']
-f.close()
-
-print("Finished reading card identifiers....")
-
-f = open(files_path+'AllPrices.json')
-
-AllPrices = json.load(f)
+AllIdentifiers = read_target('AllIdentifiers')
+AllPrices = read_target('AllPrices')
 
 date = AllPrices['meta']['date']
 AllPrices=AllPrices['data']
