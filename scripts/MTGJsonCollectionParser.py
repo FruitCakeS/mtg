@@ -44,7 +44,7 @@ with open(files_path+'collection_parsed.csv', mode='w') as csv_write:
                         break
                     elif c_number == number:
                         new_row[0] = card['uuid']
-                        print('Fuzzy Card added: %s added as %s. Set code: %s number %s vs %s' % (name, card['name'], str(setCode), str(number), str(c_number)))
+                        #print('Fuzzy Card added: %s added as %s. Set code: %s number %s vs %s' % (name, card['name'], str(setCode), str(number), str(c_number)))
                         #print(idx, printing[idx]['name'], printing[idx]['number'])
                         break
                 if new_row[0] == "":
@@ -53,7 +53,7 @@ with open(files_path+'collection_parsed.csv', mode='w') as csv_write:
                 #   print(ct, name, setCode)
                 csv_writer.writerow(new_row)
                 ct+=1
-                if ct%100 == 0:
+                if ct%1000 == 0:
                     print('parsed '+str(ct)+' of ' +str(csv_length) +' rows...')
             except Exception as e:
                 print(traceback.format_exc())

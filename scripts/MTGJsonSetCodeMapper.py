@@ -11,6 +11,8 @@ numbers=[]
 
 set_code_map = {
     'PSLD': 'SLD',
+    'PW10': 'PDCI',
+    'VELD': 'ELD',
 }
 
 
