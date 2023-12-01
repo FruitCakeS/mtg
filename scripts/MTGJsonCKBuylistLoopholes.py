@@ -24,21 +24,38 @@ def get_latest(prices):
 
 AllIdentifiers = read_target('AllIdentifiers')
 AllPrices = read_target('AllPrices')
+AllPrintings = read_target('AllPrintings')
 total = len(AllPrices)
 count = 0
 prices=[]
+set_exceptions = ['30A', '10E', '9ED', 'UPLIST']
 for uuid, card in AllPrices.items():
     if (count % 1000 == 0):
         print('parsing '+str(count)+' of '+str(total)+' prices...')
     count+=1
     for foil in ['normal', 'foil']:
+        if uuid not in AllIdentifiers or AllIdentifiers[uuid] == None or AllIdentifiers[uuid]['setCode'] == None:
+            continue
+        if AllIdentifiers[uuid]['setCode'] not in AllPrintings.keys() or AllPrintings[AllIdentifiers[uuid]['setCode']] == None:
+            continue
+        if AllIdentifiers[uuid]['setCode'] in set_exceptions:
+            continue
+        if 'releaseDate' not in AllPrintings[AllIdentifiers[uuid]['setCode']].keys():
+            continue
+        if 'isPaperOnly' in AllPrintings[AllIdentifiers[uuid]['setCode']].keys() and AllPrintings[AllIdentifiers[uuid]['setCode']]['isPaperOnly'] and AllPrintings[AllIdentifiers[uuid]['setCode']]['releaseDate'] < '2020-01-01':
+            continue
+        if AllPrintings[AllIdentifiers[uuid]['setCode']]['releaseDate'] < '2010-01-01' and foil:
+            continue
+        if AllPrintings[AllIdentifiers[uuid]['setCode']]['releaseDate'] < '2005-01-01':
+            continue
+        
         ck_buy = None
         tcg_retail = None
         ck_retail = None
         ck_buy = get_latest(nested_idx(card, ['paper', 'cardkingdom', 'buylist', foil]))
         ck_retail = get_latest(nested_idx(card, ['paper', 'cardkingdom', 'retail', foil]))
         tcg_retail =  get_latest(nested_idx(card, ['paper', 'tcgplayer', 'retail', foil]))
-        if ck_buy != None and tcg_retail != None and ck_retail >= 4.99 and ck_retail <=100:
+        if ck_buy != None and tcg_retail != None and ck_retail >= 4.99 and ck_retail <=100 and ck_buy/tcg_retail > 0.9:
             if uuid in AllIdentifiers:
                 prices.append((ck_buy/tcg_retail, ck_buy, tcg_retail, AllIdentifiers[uuid]['name'], AllIdentifiers[uuid]['setCode'], foil, AllIdentifiers[uuid]['number']))
             else:

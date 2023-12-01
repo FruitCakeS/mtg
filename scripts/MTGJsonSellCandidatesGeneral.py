@@ -28,6 +28,7 @@ AllIdentifiers = read_target('AllIdentifiers')
 AllPrintings = read_target('AllPrintings')
 AllPrices = read_target('AllPrices')
 set_exceptions = ['PLIST', 'SLD', 'PTK', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17', 'J18', 'J19', 'J20']
+set_limits = ['MH2']
 cards = []
 card_names = []
 total_cards = len(AllIdentifiers)
@@ -63,11 +64,12 @@ for uuid in AllIdentifiers.keys():
                     lowest_price = tcg_retail    
                 if tcg_retail_foil != None and tcg_retail_foil < lowest_price:
                     lowest_price = tcg_retail_foil    
-
+    ###
     if latest_release_date is not None and latest_release_date < '2019-01-01' and ('isReserved' not in latest_edition.keys() or not latest_edition['isReserved']):
         if lowest_price < 99999999 and lowest_price > 10 and card['name'] not in card_names:
             card_names.append(card['name'])
             cards.append([card['name'], latest_release_date, lowest_price])
+    ###
 
 cards = sorted(cards, key=lambda x:x[2])
 for card in cards:

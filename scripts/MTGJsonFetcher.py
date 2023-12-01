@@ -14,9 +14,11 @@ import csv
 file_targets = ['AllPrices', 'AllIdentifiers', 'AllPrintings']
 opened_json = {}
 
+date_today = str(date.today())
+
 
 def get_filename(target):
-	return files_path+target+str(date.today())+'.json'
+	return files_path+target+date_today+'.json'
 
 def read_target(target):
 	if not target in file_targets:
@@ -54,6 +56,7 @@ def update_file(target):
 		print('%s already exists!' % (filename))
 	else:
 		url = url_base+target+'.json.gz'
+		print(url)
 		"""
 		r = requests.get(url, stream=True)
 		if r.status_code == 200:
@@ -97,3 +100,22 @@ def update_file(target):
 		print("Completed unzipping %s" % (unzip_filename))
 
 #update_files()
+
+
+
+def nested_idx(obj, idxes):
+    intermediate = obj
+    for idx in idxes:
+        if idx in intermediate:
+            intermediate = intermediate[idx]
+        else:
+            return None
+    return intermediate
+
+def get_latest(prices):
+    if prices == None:
+        return None
+    if date_today in prices:
+        return prices[date_today]
+    else:
+        return None
