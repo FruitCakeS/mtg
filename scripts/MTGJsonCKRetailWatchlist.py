@@ -19,11 +19,11 @@ cards_to_check = [
     "Tropical Island",
     "Volcanic Island",
     "Plateau",
-    "Mox Diamond",
-    "Null Rod",
     "Metalworker",
     "Tolarian Academy",
     "Moat",
+    "The Tabernacle at Pendrell Vale",
+    "Library of Alexandria",
     "Black Lotus",
     "Time Walk",
     "Ancestral Recall",
@@ -33,7 +33,6 @@ cards_to_check = [
     "Mox Jet",
     "Mox Ruby",
     "Mox Emerald",
-    "Chains of Mephistopheles",
     "Survival of the Fittest",
     "Bazaar of Baghdad",
     "City of Traitors",
@@ -77,11 +76,12 @@ for specific_card_to_check in cards_to_check:
                 if card in AllPrices:
                     prices = nested_idx(AllPrices[card], ['paper', 'cardkingdom', 'retail', foil])
                     tcg_price = get_latest(nested_idx(AllPrices[card], ['paper', 'tcgplayer', 'retail', foil]))
-                    print_str = "%s %s %s %s" % (AllIdentifiers[card]['setCode'].ljust(5), AllIdentifiers[card]['number'].ljust(6), foil.ljust(7), AllIdentifiers[card]['name'].ljust(max_name_len + 1))
+                    print_str = "%s %s %s %s" % (str(AllIdentifiers[card]['setCode']).ljust(5), str(AllIdentifiers[card]['number']).ljust(6), str(foil).ljust(7), str(AllIdentifiers[card]['name']).ljust(max_name_len + 1))
                     prev_price = None
                     last_price = None
                     high_price = None
                     low_price = None
+                    first_price = 0
                     price_history = ""
                     if 'borderColor' in AllIdentifiers[card].keys() and AllIdentifiers[card]['borderColor'] == 'gold':
                         continue
@@ -95,7 +95,7 @@ for specific_card_to_check in cards_to_check:
                             if low_price == None or last_price < low_price:
                                 low_price = last_price
                             if prev_price == None:
-                                price_history += str(last_price).ljust(8)
+                                first_price += last_price
                             else:
                                 if prev_price == last_price:
                                     price_history += '-'
@@ -104,7 +104,7 @@ for specific_card_to_check in cards_to_check:
                                 else:
                                     price_history += '↑'
                             prev_price = last_price
-                        print_str += 'CU%s HI%s LO%s TCG%s %s%s'%(str(last_price).ljust(8), str(high_price).ljust(8), str(low_price).ljust(8), str(tcg_price).ljust(8), str(price_history), str(last_price))
+                        print_str += 'CU%s HI%s LO%s TCG%s %s%s%s'%(str(last_price).ljust(8), str(high_price).ljust(8), str(low_price).ljust(8), str(tcg_price).ljust(8), str(first_price).ljust(8), str(price_history).rjust(82), str(last_price).ljust(8))
                         if low_price == last_price and low_price != high_price:
                             print_str += " LOWEST!!"
                         if tcg_price != None and last_price < tcg_price:

@@ -30,7 +30,7 @@ AllPrices = read_target('AllPrices')
 cards = []
 card_names = []
 set_exceptions = ['ZNE', 'STA']
-set_limits = ['WOE', 'CMM', 'WOT']
+set_limits = []
 prices=[]
 try:
     with open(files_path+'collection_parsed.csv') as csv_file:
@@ -56,7 +56,7 @@ try:
             ck_retail = None
             ck_buy = get_latest(nested_idx(AllPrices[uuid], ['paper', 'cardkingdom', 'buylist', foil]))
             tcg_retail =  get_latest(nested_idx(AllPrices[uuid], ['paper', 'tcgplayer', 'retail', foil]))
-            if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.8:
+            if ck_buy != None and tcg_retail != None and ck_buy/tcg_retail > 0.8 and ck_buy >= 0.1:
                 if uuid in AllIdentifiers and ('isReserved' not in AllIdentifiers[uuid].keys() or not AllIdentifiers[uuid]['isReserved']):
                     prices.append((ck_buy/tcg_retail, ck_buy, tcg_retail, AllIdentifiers[uuid]['name'], AllIdentifiers[uuid]['setCode'], foil, AllIdentifiers[uuid]['number']))
                 else:
@@ -69,6 +69,6 @@ except Exception as e:
 if len(set_limits) > 0:
 	prices = sorted(prices, key=lambda x: (x[4]+str(x[1])))
 else:
-	prices = sorted(prices, key=lambda x: (x[1]))
+	prices = sorted(prices, key=lambda x: (x[0]))
 for price in prices:
     print(price[4], price[6], price[5], price[3], price[1], price[2], price[0])
