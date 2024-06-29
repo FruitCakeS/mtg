@@ -12,12 +12,15 @@ import traceback
 
 AllPrintings = read_target('AllPrintings')
 AllPrices = read_target('AllPrices')
-sets_to_compute = ['LCI', 'WOE', 'MAT', 'MOM', 'ONE', 'BRO', 'DMU', 'SNC', 'NEO', 'VOW', 'MID', 'AFR', 'STX', 'KHM', 'ZNR', 'RVR','WHO', 'CMM', 'LTR', 'DMR','CLB', 'MH2', '2X2', 'UNF', 'J22', 'BFZ']
+sets_to_compute = ['OTJ', 'MKM', 'LCI', 'WOE', 'MAT', 'MOM', 'ONE', 'BRO', 'DMU', 'SNC', 'NEO', 'VOW', 'MID', 'AFR', 'STX', 'KHM', 'ZNR', 'RVR','WHO', 'CMM', 'LTR', 'DMR','CLB', 'MH3', 'MH2', 'MH1', '2X2', 'UNF', 'J22', 'BFZ','AER']
 boosters_to_compute = [
+    'play',
     'default',
-    'collector',
+    'draft',
     'set',
     'jumpstart',
+    'collector',
+    'collector-special'
     ]
 
 for booster_type in boosters_to_compute:
@@ -70,7 +73,7 @@ for booster_type in boosters_to_compute:
 
 
 
-
+show_freshness()
 
 
 

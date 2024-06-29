@@ -27,7 +27,7 @@ AllIdentifiers = read_target('AllIdentifiers')
 AllPrices = read_target('AllPrices')
 prices = []
 longest_name = 0
-set_limits = ['MH2']
+set_limits = []
 with open(files_path+'collection_parsed.csv') as csv_file:
     reader = csv.reader( (line.replace('\0','') for line in csv_file) )
 
@@ -64,7 +64,7 @@ with open(files_path+'collection_parsed.csv') as csv_file:
                 'colors': AllIdentifiers[uuid]['colors'] if len( AllIdentifiers[uuid]['colors']) == 1 else ['M'],
             })
 
-prices = sorted(prices, key=lambda x: x['ck_buy']/x['tcg_retail'])
+prices = sorted(prices, key=lambda x: (x['set'], x['ck_buy']/x['tcg_retail']))
 for price in prices:
     print('%s %s %s %s %s CK%s TCG%s Ratio%s'%(price['name'].ljust(longest_name), price['set'].ljust(4), str(price['number']).ljust(6), price['foil'].ljust(6), price['rarity'].ljust(8), str(price['ck_buy']).ljust(7), str(price['tcg_retail']).ljust(7), str(round(price['ratio']*100, 1))+'%'))
 
